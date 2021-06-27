@@ -6,11 +6,12 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
 baseurl: 
 google_analytics: 'G-6XCXLHK0WG'
-disqus: 'demowebsite'
+disqus: 'iddeals'
 mailchimp-list: 'https://club.us5.list-manage.com/subscribe/post?u=a839bbbdc37891b132e7db91c&amp;id=d151dabdf3'
 include: ["_pages"]
 permalink: /:title/
 email: press@internetdailydeals.com
+formsfree: xwkalnqd
 
 # Authors
 authors:
