@@ -1,9 +1,14 @@
 ---
 title: Best Job Search Sites to Help Find Your Next Dream Job
-date: 2020-05-31 06:41:00 Z
 image: assets/images/1586470763.png
-featured: true
+author: jeff
 layout: post
+toc: true
+beforetoc: CareerBuilder is one of the largest job boards, providing job listings,
+  resume posting, and career advice and resources to job seekers. CareerBuilder secures
+  job listings directly from employers and has expanded local listings by partnering
+  with many newspapers to incorporate their online classifieds.
+comments: true
 ---
 
 Try out a few of the top job sites, listed in alphabetical order, to see which works best for you.
