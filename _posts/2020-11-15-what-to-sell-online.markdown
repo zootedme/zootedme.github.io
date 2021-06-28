@@ -8,6 +8,9 @@ toc: true
 beforetoc: Money to be made online is no secret. The e-commerce industry has ballooned
   since the first online purchases back in 1994, with some sources estimating that
   companies in the United States would bring in nearly
+categories:
+- Blog
+- Online
 ---
 
 Money to be made online is no secret. The e-commerce industry has ballooned since the first online purchases back in 1994, with some sources estimating that companies in the United States would bring in nearly [$375 million](https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/) in e-commerce revenue in 2020.
