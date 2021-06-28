@@ -20,5 +20,6 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
     gem 'jekyll-admin'
+    gem 'github-pages'
    
 end
