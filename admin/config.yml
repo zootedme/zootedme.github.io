@@ -7,7 +7,7 @@ media_folder: "assets/images"
 collections:
   - name: "post"
     label: "Blog"
-    folder: "_posts/"
+    folder: "_posts"
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     editor:
