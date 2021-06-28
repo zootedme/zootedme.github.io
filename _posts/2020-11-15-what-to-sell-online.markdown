@@ -1,9 +1,13 @@
 ---
 title: Questions to ask to find out what you can sell online
-date: 2020-11-15 00:00:00 Z
+date: '2020-11-15 00:00:00 +0000'
 image: assets/images/sell-online.png
 comments: true
 layout: post
+toc: true
+beforetoc: Money to be made online is no secret. The e-commerce industry has ballooned
+  since the first online purchases back in 1994, with some sources estimating that
+  companies in the United States would bring in nearly
 ---
 
 Money to be made online is no secret. The e-commerce industry has ballooned since the first online purchases back in 1994, with some sources estimating that companies in the United States would bring in nearly [$375 million](https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/) in e-commerce revenue in 2020.
@@ -67,4 +71,3 @@ Although you can definitely sell almost anything online under the sun, it is nev
 This does not imply that you should not open the e-commerce site dedicated to washing machines that you have dreamed of; it just implies that these realities should be taken into account in your business plan, and you should create strategies that still allow you to earn a profit while keeping your customers happy.
 
 On the other hand, you might want to restrict your company to smaller, lightweight products in the beginning if that sounds more difficult than it's worth.
-
