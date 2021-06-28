@@ -6,6 +6,7 @@ categories:
 - Affiliate
 - Freelance
 - Marketing
+- Freelance
 toc: true
 beforetoc: The idea of making money online seemed like a novel concept for just a
   few years. Working from wherever you want, whenever you want, being your own boss,
