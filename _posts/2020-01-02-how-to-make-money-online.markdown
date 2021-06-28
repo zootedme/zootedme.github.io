@@ -1,9 +1,18 @@
 ---
 title: 12 Legitimate Strategies to Make Money Online
-date: 2020-01-02 17:35:00 Z
+date: '2020-01-02 17:35:00 +0000'
 image: assets/images/How-to-make-money-online-770x450-37whoatrq8mg1gzekfble2-eea5d5.png
 featured: true
 layout: post
+categories:
+- Affiliate
+- Freelance
+- Marketing
+toc: true
+beforetoc: The idea of making money online seemed like a novel concept for just a
+  few years. Working from wherever you want, whenever you want, being your own boss,
+  and having supreme flexibility sounded great. But it just wasn’t realistic for most
+  people.
 ---
 
 The idea of making money online seemed like a novel concept for just a few years. Working from wherever you want, whenever you want, being your own boss, and having supreme flexibility sounded great. But it just wasn’t realistic for most people.
