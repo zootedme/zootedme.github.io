@@ -5,7 +5,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: "assets/images"
 collections:
-  - name: "post"
+  - name: "blog"
     label: "Blog"
     folder: "_posts"
     create: true # Allow users to create new documents in this collection
