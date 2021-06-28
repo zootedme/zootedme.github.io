@@ -1,9 +1,15 @@
 ---
 title: How to Make Money on Tiktok
-date: 2020-07-05 06:25:00 Z
+date: '2020-07-05 06:25:00 +0000'
 image: assets/images/makemoneyontiktok.jpeg
 comments: true
 layout: post
+toc: true
+beforetoc: TikTok, a trending application for creating short videos, has become a
+  popular platform to make money online. The major reason behind it is influencer
+  marketing. Through this, people who can influence others can make money simply using
+  their TikTok account. If you want to opt this way of making money, follow the steps
+  mentioned below.
 ---
 
 TikTok, a trending application for creating short videos, has become a popular platform to make money online. The major reason behind it is influencer marketing. Through this, people who can influence others can make money simply using their TikTok account. If you want to opt this way of making money, follow the steps mentioned below.
