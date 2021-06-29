@@ -2,7 +2,7 @@
 layout: post
 title: 10 Practical Methods to Make Money Online
 image: assets/images/Make-Money-Online-1.jpg
-categories: "Money "
+categories: Money Affiliate Blog Apps
 toc: true
 beforetoc: Making money online or successfully running an online business is the
   dream of every internet entrepreneur. But this dream is not so easily
