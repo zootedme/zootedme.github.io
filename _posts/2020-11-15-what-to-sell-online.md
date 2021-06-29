@@ -2,7 +2,7 @@
 layout: post
 title: Questions to ask to find out what you can sell online
 image: assets/images/sell-online.png
-categories: List [ "Blog", "Online", "Online Selling" ]
+categories: Blog Online
 toc: true
 beforetoc: Money to be made online is no secret. The e-commerce industry has
   ballooned since the first online purchases back in 1994, with some sources
