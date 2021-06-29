@@ -131,7 +131,7 @@ A number of professional teachers, even some novice users are earning good enoug
 
 ![10 Practical Methods to Make Money Online](/assets/images/Youtube-user-by-2019.jpg)
 
-The internet gives you several options, such as YouTube for video tutorials, social media, online earning sites and more where you can upload and sell your eBooks, e-learning materials, webinars, training manuals and more to generate money. Webinars are probably the most popular of these methods and have a great earning potential.
+The internet gives you several options, such as YouTube for video tutorials, social media, online earning sites and more where you can upload and sell your eBooks, e-learning materials, webinars, training manuals and more to generate money. Webinars are probably the most popular of these methods and have great earning potential.
 
 ### 10. Online Surveys
 
