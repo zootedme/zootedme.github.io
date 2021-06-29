@@ -11,7 +11,6 @@ author: jeff
 date: 2020-11-15 00:00:00 +0000
 comments: true
 ---
-
 Money to be made online is no secret. The e-commerce industry has ballooned since the first online purchases back in 1994, with some sources estimating that companies in the United States would bring in nearly [$375 million](https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/) in e-commerce revenue in 2020.
 
 More than 25% of the world's population is online and ready for shopping these days, and more than half of shopping experiences begin online, even though they do not end there. Leveraging the internet is a no-brainer if you're a small business owner or entrepreneur looking to start or expand your business.
@@ -42,7 +41,7 @@ Alternatively, you can search for a specific type of item (such as "water guns")
 
 ![Etsy Tag](/assets/images/etsy-tag.png)
 
-Etsy also brands best-selling items with a tiny orange tag, and has made a name for itself as the go-to site for innovative people [selling their products](https://internetdailydeals.com/2020/05/31/how-to-make-money-selling-unused-stuffs-online.html).
+Etsy also brands best-selling items with a tiny orange tag, and has made a name for itself as the go-to site for innovative people [selling their products](https://internetdailydeals.com/how-to-make-money-selling-unused-stuffs-online/).
 
 While this is not nearly as scientific as doing your own systematic studies, it is useful to look at these broad sites-they spend a great deal in rating the products they prioritize, marking and promoting as best sellers. This can be a great place to start if you're trying to find some new ideas for products to sell online or just need some general knowledge of the big picture.
 
