@@ -55,9 +55,11 @@ You can earn by selling both your old items and new goods online. There are many
 
 **A better way is to build your own website and sell new things. Just check out Amazon earning –**
 
-![amazon-earning-2017.jpg](/assets/images/amazon-earning-2017.jpg)
+![10 Practical Methods to Make Money Online](/assets/images/amazon-earning-2017.jpg)
 
-The product you choose to sell should be based on the supply and demand. There is already too much competition in the e-commerce market so it won’t be easy to earn from your own website, at least not in the beginning. Another alternative is to sell your products on other online marketplaces like Amazon and eBay.
+The product you choose to sell should be based on supply and demand. There is already too much competition in the e-commerce market so it won’t be easy to earn from your own website, at least not in the beginning. Another alternative is to sell your products on other online marketplaces like Amazon and eBay.
+
+
 
 ### 4. Start a Blog
 
@@ -65,13 +67,13 @@ If you are serious about starting a business online and are ready to dedicate th
 
 **Earning online money will be easy. Look at these cool income growth of a blogger – by shoutmeloud**
 
-![Blogging-Income.jpg](/assets/images/Blogging-Income.jpg)
+![10 Practical Methods to Make Money Online](/assets/images/Blogging-Income.jpg)
 
 You can earn through several ways including ads, affiliates, e-courses and more if you have good traffic on your blog. It is very crucial to choose the right subject for the blog. It should be something you’re interested in and also has a market demand. you will have to invest a few bucks for setting up your blog.
 
 Then, it’s all about how much time and efforts you put into it. Once your blog starts getting good enough traffic, you won’t have to spend as much time on it.
 
-![I-Smell-Money.gif](/assets/images/I-Smell-Money.gif)
+![10 Practical Methods to Make Money Online](/assets/images/I-Smell-Money.gif)
 
 ### 5. Affiliate Marketing
 
@@ -107,7 +109,7 @@ Another effective method of earning good income online is by selling mobile appl
 
 **A report says application economy will raise $6.3 billion by 2022. Isn’t it cool??**
 
-![App-revenue-by-appannie.jpg](/assets/images/App-revenue-by-appannie.jpg)
+![10 Practical Methods to Make Money Online](/assets/images/App-revenue-by-appannie.jpg)
 
 Then, you can start building apps that have demand in the market and sell these apps for a few bucks on the popular app stores like Google Play and Apple Store.
 
@@ -117,7 +119,7 @@ Email marketing is all about building the list of relevant subscribers. The more
 
 **Email marketing revenue hitting growth –**
 
-![Email-Marketing-Revenue.jpg](/assets/images/Email-Marketing-Revenue.jpg)
+![10 Practical Methods to Make Money Online](/assets/images/Email-Marketing-Revenue.jpg)
 
 On average, you can earn about $1 per month from each of your subscribers. So, if you have 100 subscribers, you will earn about $100 per month, without having to do much of anything. To build and maintain an email list, you may need a website, blog or some other source of regular information.
 
@@ -127,14 +129,12 @@ A number of professional teachers, even some novice users are earning good enoug
 
 **Making learning video on youtube is the easiest way to earn money –**
 
-![Youtube-user-by-2019.jpg](/assets/images/Youtube-user-by-2019.jpg)
+![10 Practical Methods to Make Money Online](/assets/images/Youtube-user-by-2019.jpg)
 
 The internet gives you several options, such as YouTube for video tutorials, social media, online earning sites and more where you can upload and sell your eBooks, e-learning materials, webinars, training manuals and more to generate money. Webinars are probably the most popular of these methods and have a great earning potential.
 
 ### 10. Online Surveys
 
-Taking online surveys is also a good way for generating pocket money, but you cannot expect to earn much through this option. The main problem with this method is that there are too many fraud/fake companies that ask you to do surveys and then run away when it comes to payment.
+[Taking online surveys](https://internetdailydeals.com/how-to-make-money-taking-online-surveys/) is also a good way for generating pocket money, but you cannot expect to earn much through this option. The main problem with this method is that there are too many fraud/fake companies that ask you to do surveys and then run away when it comes to payment.
 
 However, there are also some good survey websites like Swagbucks and opinion outpost that will pay you for each survey you do for them.
-
-\
