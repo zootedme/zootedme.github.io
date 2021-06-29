@@ -35,17 +35,17 @@ Paying attention to what's new on massive third-party sites such as Amazon, Etsy
 
 For instance, Amazon has a "Best Seller" section that puts top-performing items front and center in each category.
 
-![Best Seller](/assets/images/best-seller.png)
+![Questions to ask to find out what you can sell online](/assets/images/best-seller.png)
 
 Alternatively, you can search for a specific type of item (such as "water guns"), and the site will apply an orange "Best Selling" tags to the items most commonly purchased by consumers.
 
-![Etsy Tag](/assets/images/etsy-tag.png)
+![Questions to ask to find out what you can sell online - Etsy Tag](/assets/images/etsy-tag.png)
 
-Etsy also brands best-selling items with a tiny orange tag, and has made a name for itself as the go-to site for innovative people [selling their products](https://internetdailydeals.com/how-to-make-money-selling-unused-stuffs-online/).
+Etsy also brands best-selling items with a tiny orange tag, and has made a name for itself as the go-to site for innovative people selling their products.
 
 While this is not nearly as scientific as doing your own systematic studies, it is useful to look at these broad sites-they spend a great deal in rating the products they prioritize, marking and promoting as best sellers. This can be a great place to start if you're trying to find some new ideas for products to sell online or just need some general knowledge of the big picture.
 
-![Etsy](/assets/images/etsy.png)
+![Questions to ask to find out what you can sell online - Etsy](/assets/images/etsy.png)
 
 ### What's the online search trend?
 
@@ -53,7 +53,7 @@ If you think you may already have an idea of a few things to sell online, it is 
 
 For instance, if you're trying to determine whether to sell toasters or toaster ovens, you could look at Google Trends to see how often individuals have searched for both of them over the past year. Looking at the data, you can see that there's nearly twice as much toaster search traffic. What's more, it's obvious that overall search traffic for both products is growing, which is often a good sign.
 
-![Google Trends](/assets/images/google trends.png)
+![Questions to ask to find out what you can sell online - Google Trends](/assets/images/google trends.png)
 
 Google Trends is not the only tool that provides this form of data, but for those who do not want to make more of a financial investment in this field, it is an excellent free choice.
 
