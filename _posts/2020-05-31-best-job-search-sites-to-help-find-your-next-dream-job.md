@@ -1,13 +1,15 @@
 ---
+layout: post
 title: Best Job Search Sites to Help Find Your Next Dream Job
 image: assets/images/1586470763.png
-author: jeff
-layout: post
+categories: "Jobs CareerBuilder Indeed "
 toc: true
-beforetoc: CareerBuilder is one of the largest job boards, providing job listings,
-  resume posting, and career advice and resources to job seekers. CareerBuilder secures
-  job listings directly from employers and has expanded local listings by partnering
-  with many newspapers to incorporate their online classifieds.
+beforetoc: CareerBuilder is one of the largest job boards, providing job
+  listings, resume posting, and career advice and resources to job seekers.
+  CareerBuilder secures job listings directly from employers and has expanded
+  local listings by partnering with many newspapers to incorporate their online
+  classifieds.
+author: jeff
 comments: true
 ---
 
