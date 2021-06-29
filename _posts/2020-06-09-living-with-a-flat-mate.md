@@ -1,13 +1,14 @@
 ---
+layout: post
 title: The Right Way to Split Bills with Roommates
 image: assets/images/Whos-Covering-the-Paper-Towels.jpg
-comments: true
-layout: post
+categories: "Money "
 toc: true
-beforetoc: Living with a flatmate has a lot of advantages, similar to the capacity
-  to lease a bigger space and setting aside cash. Notwithstanding, it comes with a
-  considerable amount of issues you need to manage.
+beforetoc: Living with a flatmate has a lot of advantages, similar to the
+  capacity to lease a bigger space and setting aside cash. Notwithstanding, it
+  comes with a considerable amount of issues you need to manage.
 author: jeff
+comments: true
 ---
 
 Living with a flatmate has a lot of advantages, similar to the capacity to lease a bigger space and setting aside cash. Notwithstanding, it comes with a considerable amount of issues you need to manage.
