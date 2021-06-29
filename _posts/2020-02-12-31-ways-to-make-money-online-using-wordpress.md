@@ -2,7 +2,7 @@
 layout: post
 title: 31 Ways to Make Money Online using WordPress
 image: assets/images/Make-Money-With-WordPress-Facebook-1-1024x536.png
-categories: Money Online Freelance Affiliate
+categories: Money Online Freelance Affiliate Wordpress
 toc: true
 beforetoc: Everyone wants and it never seems enough. What is it? Money. In
   today’s materialistic world money has value like none other and that is
