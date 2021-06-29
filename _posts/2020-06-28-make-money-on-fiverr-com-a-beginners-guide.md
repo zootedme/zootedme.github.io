@@ -35,7 +35,7 @@ Beginning to sell on Fiverr is simple and you don't have to experience or to go 
 
 A gig is an approach to call the service you offer, which is represented to by a **square shape** and is the thing that appears to possible purchasers in the webpage when they are searching for service. Essentially, a gig is a component that is utilized to sell (or purchase) service on the Platform
 
-![fiverrgigs.jpg](/assets/images/fiverrgigs.jpg)
+![Make Money On Fiverr.Com : A Beginners Guide](/assets/images/fiverrgigs.jpg)
 
 ### **Major Gigs Categories on Fiverr :**
 
@@ -45,7 +45,7 @@ A gig is an approach to call the service you offer, which is represented to by a
 * Video & Animation.
 * Music & Audio.
 * Programming & Tech.
-* Advertising.a
+* Advertising
 
 ### **The Myth of Jobs for $5**
 
@@ -53,7 +53,12 @@ Prior to 2015, Fiverr was referred to just as of the foundation of the employmen
 
 They have even made campaigns for experts in their areas to have unique acknowledgment and gather what they merit. A few people can charge $100-$500 for a single gig. Obviously, it is something for experts or professionals. Be that as it may if you will probably begin on Fiverr as beginners, that gives you trust that one day you can arrive at that level.
 
-![96926-f3.png](/assets/images/96926-f3.png)
+![Make Money On Fiverr.Com : A Beginners Guide](/assets/images/96926-f3.png)
+
+
+>  **Also Red: [How to Make Money on Instagram](https://internetdailydeals.com/how-to-make-money-on-instagram-in-2020/)**
+
+
 
 ### **How Much Can I Earn On Fiverr?**
 
@@ -65,7 +70,11 @@ With superb service, preparing, training, and committing at any rate of an hour 
 
 From that point, the income duplicates increasingly more consistently, and the sky is the limit from there.
 
-> **\*Tip:** The Fiverr will charge you 20% of the pay you get.*
+
+
+> **Tip:** The Fiverr will charge you 20% of the pay you get.
+
+
 
 Disclose to yourself that in the event that you charge $ US5 for a service, you will get $ US4. On the off chance that you charge $ US10, you will get $ US8, etc.
 
@@ -73,6 +82,4 @@ Disclose to yourself that in the event that you charge $ US5 for a service, you 
 
 What is the most exceedingly terrible thing that can occur? On the off chance that you make your first gig and it doesn't work, there is consistently one more opportunity. You don't lose anything, set out to attempt it!
 
-### **Start Making Money On Fiverr**
-
-[](https://track.fiverr.com/visit/?bta=116041&brand=fiverrcpa)
+[How Much Can I Earn On Fiverr?](https://track.fiverr.com/visit/?bta=116041&brand=fiverrcpa)
