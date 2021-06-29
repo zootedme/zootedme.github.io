@@ -1,14 +1,19 @@
 ---
-title: How to Make Money Online While at Home During Lockdown
-date: 2020-05-31 06:37:00 Z
-image: assets/images/moneyduringpandemic.png
-comments: true
 layout: post
+title: How to Make Money Online While at Home During Lockdown
+image: assets/images/moneyduringpandemic.png
+categories: MakeMoney Covid19 Blogging WFH
+toc: true
+beforetoc: As the pandemic coronavirus continues to rise, economies across the
+  globe continue to drop and most of the global companies are closing and urging
+  employees to stay and work at home,
+author: jeff
+date: 2020-05-31 06:37:00 Z
+comments: true
 ---
-
 As the pandemic coronavirus continues to rise, economies across the globe continue to drop and most of the global companies are closing and urging employees to stay and work at home,
 
-Tech giants [Google](https://www.cnbc.com/quotes/?symbol=GOOGL), [Amazon](https://www.cnbc.com/quotes/?symbol=AMZN), and [Facebook](https://www.cnbc.com/quotes/?symbol=FB) are among the global companies that announce a move to online jobs for the duration of the outbreak. Here'show to make money online while staying at home
+Tech giants [Google](https://www.cnbc.com/quotes/?symbol=GOOGL), [Amazon](https://www.cnbc.com/quotes/?symbol=AMZN), and [Facebook](https://www.cnbc.com/quotes/?symbol=FB) are among the global companies that announce a move to online jobs for the duration of the outbreak. Here's how to make money online while staying at home
 
 **1. Virtual Assistants**
 
@@ -50,6 +55,6 @@ Among the easiest stay at home, jobs are filling out surveys on platforms like E
 
 If your English is good and your typing abilities above average, you pocket good pay by transcribing audio and video recordings into writing. General transcribers earn about $10-$15 for an hour’s job.
 
-10\. Website and App Testing
+10. Website and App Testing
 
 Businesses pay individuals to try out their site or application and give feedback. Popular places to get these jobs include Enroll, [Userfeel](https://www.userfeel.com/), and Analsia. You can earn about $8-$10 per 15 min test.
