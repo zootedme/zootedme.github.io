@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Money While You Travel Full-Time
-image: assets/images/make-money-on-the-road-RVing.jpg
+image: /assets/images/how-to-make-money-while-you-travel-full-time.png
 categories: MakeMoney  Workamping Remote Freelance
 toc: true
 beforetoc: Going by RV is an incredible method to unwind and explore the world
@@ -16,7 +16,7 @@ Going by RV is an incredible method to unwind and explore the world at your own 
 
 Fortunately, these days there are numerous choices for getting by while out and about. That way you can extend your travel and carry on with life on the wild side. Here are a few directions you can go that may fill in as a bouncing off the moment that hoping to respond to the inquiry, how can I make money on the road?
 
-## Workamping
+### Workamping
 
 Workamping, or work outdoors, is turning out to be increasingly more well known among certain businesses as more individuals grasp the full-time RV way of life. Basically, workamping is the point at which an individual work for a business in exchange for an RV spot, a pay, or both. Here and there different advantages are incorporated, for example, Wi-Fi, cable, full hookups for the RV, and so on. Plans can shift a considerable amount depending upon the business and what they bring to the table.
 
