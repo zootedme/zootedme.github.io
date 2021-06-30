@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 12 Legitimate Strategies to Make Money Online
-image: assets/images/How-to-make-money-online-770x450-37whoatrq8mg1gzekfble2-eea5d5.png
+image: /assets/images/how-to-make-money-online.png
 categories:
   - Affiliate
   - Freelance
