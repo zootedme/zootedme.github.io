@@ -1,12 +1,16 @@
 ---
-layout: post
 title: How to Make Money Blogging
+layout: post
 image: assets/images/Can-You-Make-Money-Blogging.png
-categories: "Blog MakeMoney Blogging "
+categories:
+- Blog
+- MakeMoney
+- Blogging
+- ''
 toc: true
-beforetoc: There are lots of ways to monetize your blog once you have a good
-  number of visitors. But when you are just starting out you won’t have many
-  readers, so it’s important to make the most of each one.
+beforetoc: There are lots of ways to monetize your blog once you have a good number
+  of visitors. But when you are just starting out you won’t have many readers, so
+  it’s important to make the most of each one.
 author: jeff
 comments: true
 ---

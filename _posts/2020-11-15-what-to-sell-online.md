@@ -1,16 +1,19 @@
 ---
-layout: post
 title: Questions to ask to find out what you can sell online
+layout: post
 image: assets/images/sell-online.png
-categories: Blog Online
+categories:
+- Blog
+- Online
 toc: true
-beforetoc: Money to be made online is no secret. The e-commerce industry has
-  ballooned since the first online purchases back in 1994, with some sources
-  estimating that companies in the United States would bring in nearly
+beforetoc: Money to be made online is no secret. The e-commerce industry has ballooned
+  since the first online purchases back in 1994, with some sources estimating that
+  companies in the United States would bring in nearly
 author: jeff
-date: 2020-11-15 00:00:00 +0000
+date: '2020-11-15 00:00:00 +0000'
 comments: true
 ---
+
 Money to be made online is no secret. The e-commerce industry has ballooned since the first online purchases back in 1994, with some sources estimating that companies in the United States would bring in nearly [$375 million](https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/) in e-commerce revenue in 2020.
 
 More than 25% of the world's population is online and ready for shopping these days, and more than half of shopping experiences begin online, even though they do not end there. Leveraging the internet is a no-brainer if you're a small business owner or entrepreneur looking to start or expand your business.

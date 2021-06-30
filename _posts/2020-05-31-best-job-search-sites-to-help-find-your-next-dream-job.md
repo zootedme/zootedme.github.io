@@ -1,17 +1,22 @@
 ---
-layout: post
 title: Best Job Search Sites to Help Find Your Next Dream Job
+layout: post
 image: assets/images/1586470763.png
-categories: "Jobs CareerBuilder Indeed "
+categories:
+- Jobs
+- CareerBuilder
+- Indeed
+- ''
 toc: true
-beforetoc: Best Job Search Sites to Help Find Your Next Dream Job. CareerBuilder
-  is one of the largest job boards, providing job listings, resume posting, and
-  career advice and resources to job seekers. CareerBuilder secures job listings
-  directly from employers and has expanded local listings by partnering with
-  many newspapers to incorporate their online classifieds.
+beforetoc: Best Job Search Sites to Help Find Your Next Dream Job. CareerBuilder is
+  one of the largest job boards, providing job listings, resume posting, and career
+  advice and resources to job seekers. CareerBuilder secures job listings directly
+  from employers and has expanded local listings by partnering with many newspapers
+  to incorporate their online classifieds.
 author: jeff
 comments: true
 ---
+
 Try out a few of the top job sites, listed in alphabetical order, to see which works best for you.
 
 
@@ -115,6 +120,3 @@ Freelance workers can search for projects based on [categories](https://www.upwo
 ZipRecruiter uses innovative technology to learn about your job preferences as you apply for jobs from their extensive inventory of openings. Users then receive notices of jobs that meet their preferences.
 
 ![Best Job Search Sites to Help Find Your Next Dream Job](/assets/images/ziprecruiter.png)
-
-
-

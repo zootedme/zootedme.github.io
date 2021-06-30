@@ -1,13 +1,17 @@
 ---
-layout: post
 title: 12 Legitimate Strategies to Make Money Online
+layout: post
 image: assets/images/How-to-make-money-online-770x450-37whoatrq8mg1gzekfble2-eea5d5.png
-categories: Affiliate Freelance Marketing Freelance
+categories:
+- Affiliate
+- Freelance
+- Marketing
+- Freelance
 toc: true
-beforetoc: The idea of making money online seemed like a novel concept for just
-  a few years. Working from wherever you want, whenever you want, being your own
-  boss, and having supreme flexibility sounded great. But it just wasn’t
-  realistic for most people.
+beforetoc: The idea of making money online seemed like a novel concept for just a
+  few years. Working from wherever you want, whenever you want, being your own boss,
+  and having supreme flexibility sounded great. But it just wasn’t realistic for most
+  people.
 author: jeff
 ---
 

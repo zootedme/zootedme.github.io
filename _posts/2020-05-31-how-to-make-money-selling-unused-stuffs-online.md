@@ -1,17 +1,20 @@
 ---
-layout: post
 title: How to Make Money Selling Unused Stuffs Online
+layout: post
 image: assets/images/1584050911.jpg
-categories: MakeMoney Craigslist
+categories:
+- MakeMoney
+- Craigslist
 toc: true
-beforetoc: How to Make Money Selling Unused Stuffs Online. Have a great deal of
-  messiness around the house? In the event that a yard deal isn't generally your
-  thing, eBay and Craigslist are two spots to list utilized things available to
-  sell online, including furniture, attire, hardware, and toys.
+beforetoc: How to Make Money Selling Unused Stuffs Online. Have a great deal of messiness
+  around the house? In the event that a yard deal isn't generally your thing, eBay
+  and Craigslist are two spots to list utilized things available to sell online, including
+  furniture, attire, hardware, and toys.
 author: jeff
-date: 2020-05-31 17:45:00 Z
+date: '2020-05-31 17:45:00 +0000'
 comments: true
 ---
+
 Have a great deal of messiness around the house? In the event that a yard deal isn't generally your thing, eBay and Craigslist are two spots to list utilized things available to sell online, including furniture, attire, hardware, and toys.
 
 Lately, Social Media site like [Facebook Marketplace](https://www.facebook.com/marketplace/) has become a well-known platform to sell your undesirable stuff. The only drawbacks for selling via social media is You'll need to already have many followers, and there's no easy logistical structure in place for things like credit card processing or returns management
@@ -50,5 +53,5 @@ If you have a lot of items to unload, Take Advantage of the power of the interne
 
 
 > **Related:**
->
+
 > [10 Practical Methods to Make Money Online](https://internetdailydeals.com/make-money-online/)

@@ -1,16 +1,18 @@
 ---
-layout: post
 title: How to Make Money Taking Online Surveys?
+layout: post
 image: assets/images/How-to-Make-Money-Online-through-Online-Surveys.jpg
-categories: Surveys MakeMoney
+categories:
+- Surveys
+- MakeMoney
 toc: true
-beforetoc: "How to Make Money Taking Online Surveys? Taking online surveys is
-  simple, though getting started can take a bit of time. Here are the steps
-  involved:"
+beforetoc: 'How to Make Money Taking Online Surveys? Taking online surveys is simple,
+  though getting started can take a bit of time. Here are the steps involved:'
 author: jeff
-date: 2020-06-01 06:34:00 Z
+date: '2020-06-01 06:34:00 +0000'
 comments: true
 ---
+
 Taking online surveys is simple, though getting started can take a bit of time. Here are the steps involved:
 
 

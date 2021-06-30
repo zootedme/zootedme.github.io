@@ -1,16 +1,18 @@
 ---
-layout: post
 title: Top 5 Mobile Apps to Earn Real Cash
+layout: post
 image: assets/images/5app-to-make-money-online.jpg
-categories: MakeMoney Rewards
+categories:
+- MakeMoney
+- Rewards
 toc: true
-beforetoc: Top 5 Mobile Apps to Earn Real Cash. That's right, you can earn a few
-  dollars by filling out surveys and offers, or even using the app itself.
-  Granted, you won't be able to live off that, but it's still a great way to
-  earn some money for yourself!
+beforetoc: Top 5 Mobile Apps to Earn Real Cash. That's right, you can earn a few dollars
+  by filling out surveys and offers, or even using the app itself. Granted, you won't
+  be able to live off that, but it's still a great way to earn some money for yourself!
 author: jeff
 comments: true
 ---
+
 Most apps require you to spend money, but did you know that there are apps you can use to make money instead?
 
 That's right, you can earn a few dollars by filling out surveys and offers, or even using the app itself. Granted, you won't be able to live off that, but it's still a great way to earn some money for yourself!

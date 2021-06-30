@@ -1,16 +1,21 @@
 ---
-layout: post
 title: How to Make Money on Instagram in 2021
+layout: post
 image: assets/images/how-to-make-money-on-instagram-.png
-categories: Instagram MakeMoney Influencer Affiliate
+categories:
+- Instagram
+- MakeMoney
+- Influencer
+- Affiliate
 toc: true
-beforetoc: "Instagram is seemingly a very simple social media platform. Compared
-  with the likes of Facebook or even Twitter, Instagram has an extremely narrow
-  focus: posting images."
+beforetoc: 'Instagram is seemingly a very simple social media platform. Compared with
+  the likes of Facebook or even Twitter, Instagram has an extremely narrow focus:
+  posting images.'
 author: jeff
-date: 2020-06-01 06:29:00 Z
+date: '2020-06-01 06:29:00 +0000'
 comments: true
 ---
+
 Instagram is seemingly a very simple social media platform. Compared with the likes of Facebook or even Twitter, Instagram has an extremely narrow focus: posting images.
 
 But while that’s true, it also hides a lot of depth. And this is a depth that can be plumbed for huge profits if you know how to make the platform work for you!

@@ -1,17 +1,19 @@
 ---
-layout: post
 title: Legit Ways to Increase Your Income While Working from Home
+layout: post
 image: assets/images/LegitWaystoIncreaseYourIncomeWhileWorkingfromHome.jpg
-categories: WFH MakeMoney
+categories:
+- WFH
+- MakeMoney
 toc: true
-beforetoc: Legit Ways to Increase Your Income While Working from Home! In the
-  event that you've lost a significant source of income and are battling to get
-  by during this troublesome time, there is an assortment of online platforms to
-  go to.
+beforetoc: Legit Ways to Increase Your Income While Working from Home! In the event
+  that you've lost a significant source of income and are battling to get by during
+  this troublesome time, there is an assortment of online platforms to go to.
 author: jeff
-date: 2020-06-10 06:14:00 Z
+date: '2020-06-10 06:14:00 +0000'
 comments: true
 ---
+
 In the event that you've lost a significant source of income and are battling to get by during this troublesome time, there is an assortment of online platforms to go to.
 
 Working remotely permits you to bring in cash while never going out. While a few skills, for example, programming, copywriting, and marketing are in particular appeal with regards to remote positions. there are openings in a wide range of specialties.

@@ -1,14 +1,16 @@
 ---
+title: 'WordPress Vs Shopify: Figure out Which One Is Better?'
 layout: post
-title: "WordPress Vs Shopify: Figure out Which One Is Better?"
 image: assets/images/WodpressVSshopify.png
-categories: Wordpress Shopify
+categories:
+- Wordpress
+- Shopify
 toc: true
-beforetoc: " All the platforms contain a wide range of features and
-  functionalities that differ from each platform from another. But the two best
-  website creation platforms are WordPress and Shopify."
+beforetoc: All the platforms contain a wide range of features and functionalities
+  that differ from each platform from another. But the two best website creation platforms
+  are WordPress and Shopify.
 author: jeff
-date: 2020-03-17 06:59:00 Z
+date: '2020-03-17 06:59:00 +0000'
 comments: true
 ---
 
@@ -52,5 +54,6 @@ Using this feature can also increase the visibility in the search results of the
 
 ### 4. Shopify Interface
 
-The basic interface of Shopify is similar to WordPress including the left-hand screen of the menu. From the menu, you can select different options and choose the perfect piece of content for your web pages.\
+The basic interface of Shopify is similar to WordPress including the left-hand screen of the menu. From the menu, you can select different options and choose the perfect piece of content for your web pages.
+
 Shopify interface is slightly cleaner enabling you to edit and publish content by just a few clicks. The interface of Shopify is intuitive considering the users who have an interest in creating and managing an online store. [Leather jacket manufacturer](https://www.jacketsinn.com/) and seller can manage products, categories, collections, sales, channel everything with ease in Shopify. It doesn’t need any other plugin integration for the development of e-commerce websites as it itself is a completely online store creation platform.

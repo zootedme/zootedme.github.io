@@ -1,15 +1,20 @@
 ---
-layout: post
 title: 31 Ways to Make Money Online using WordPress
+layout: post
 image: assets/images/Make-Money-With-WordPress-Facebook-1-1024x536.png
-categories: Money Online Freelance Affiliate Wordpress
+categories:
+- Money
+- Online
+- Freelance
+- Affiliate
+- Wordpress
 toc: true
-beforetoc: Everyone wants and it never seems enough. What is it? Money. In
-  today’s materialistic world money has value like none other and that is
-  perhaps the reason you have chosen to make money online. There is no dearth of
-  information on how to make money online but most of it isn’t legit.
+beforetoc: Everyone wants and it never seems enough. What is it? Money. In today’s
+  materialistic world money has value like none other and that is perhaps the reason
+  you have chosen to make money online. There is no dearth of information on how to
+  make money online but most of it isn’t legit.
 author: jeff
-date: 2020-02-12 07:17:00 Z
+date: '2020-02-12 07:17:00 +0000'
 comments: true
 ---
 

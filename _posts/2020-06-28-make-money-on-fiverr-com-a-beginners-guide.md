@@ -1,16 +1,19 @@
 ---
+title: 'Make Money On Fiverr.Com : A Beginners Guide'
 layout: post
-title: "Make Money On Fiverr.Com : A Beginners Guide"
 image: assets/images/10-ways-to-make-money-on-Fiverr.png
-categories: Fiverr MakeMoney
+categories:
+- Fiverr
+- MakeMoney
 toc: true
-beforetoc: Basically, Fiverr.com  is a web platform for trading or exchanging
-  services in digital media. I purchase and you deliver whatever can be given
-  digitally, actually whatever.
+beforetoc: Basically, Fiverr.com  is a web platform for trading or exchanging services
+  in digital media. I purchase and you deliver whatever can be given digitally, actually
+  whatever.
 author: jeff
-date: 2020-06-28 05:49:00 Z
+date: '2020-06-28 05:49:00 +0000'
 comments: true
 ---
+
 Basically, [Fiverr.com](https://track.fiverr.com/visit/?bta=116041&nci=7416) is a web platform for trading or exchanging services in digital media. I purchase and you deliver whatever can be given digitally, actually whatever.
 
 Imagination ruled on this platform and compared it with online platforms like Upwork and Freelancer. It is less expert or professional, to be sure. That less expert can be both acceptable and awful. It is acceptable in light of the fact that you have less boundary to entry and you can rapidly begin making cash.

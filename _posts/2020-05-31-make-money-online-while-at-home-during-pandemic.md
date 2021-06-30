@@ -1,17 +1,21 @@
 ---
-layout: post
 title: How to Make Money Online While at Home During Lockdown
+layout: post
 image: assets/images/moneyduringpandemic.png
-categories: MakeMoney Covid19 Blogging WFH
+categories:
+- MakeMoney
+- Covid19
+- Blogging
+- WFH
 toc: true
-beforetoc: How to Make Money Online While at Home During Lockdown. As the
-  pandemic coronavirus continues to rise, economies across the globe continue to
-  drop and most of the global companies are closing and urging employees to stay
-  and work at home,
+beforetoc: How to Make Money Online While at Home During Lockdown. As the pandemic
+  coronavirus continues to rise, economies across the globe continue to drop and most
+  of the global companies are closing and urging employees to stay and work at home,
 author: jeff
-date: 2020-05-31 06:37:00 Z
+date: '2020-05-31 06:37:00 +0000'
 comments: true
 ---
+
 As the pandemic coronavirus continues to rise, economies across the globe continue to drop and most of the global companies are closing and urging employees to stay and work at home,
 
 Tech giants [Google](https://www.cnbc.com/quotes/?symbol=GOOGL), [Amazon](https://www.cnbc.com/quotes/?symbol=AMZN), and [Facebook](https://www.cnbc.com/quotes/?symbol=FB) are among the global companies that announce a move to online jobs for the duration of the outbreak. Here's how to make money online while staying at home
