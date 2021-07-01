@@ -1,20 +1,19 @@
 ---
-title: How to Make Money While You Travel Full-Time
 layout: post
+title: How to Make Money While You Travel Full-Time
 image: assets/images/how-to-make-money-while-you-travel-full-time.png
 categories:
-- Make Money
-- ''
-- Workamping
-- Remote
-- Freelance
+  - Make Money
+  - Workamping
+  - Remote
+  - Freelance
 toc: true
-beforetoc: Going by RV is an incredible method to unwind and explore the world at
-  your own pace. Perhaps the greatest inquiry individuals have while thinking about
-  RVing full-time, for an all-encompassing road trip, or in any event, traveling for
-  some portion of the year is, how will I bring in cash?
+beforetoc: Going by RV is an incredible method to unwind and explore the world
+  at your own pace. Perhaps the greatest inquiry individuals have while thinking
+  about RVing full-time, for an all-encompassing road trip, or in any event,
+  traveling for some portion of the year is, how will I bring in cash?
 author: jeff
-date: '2020-08-16 19:31:00 +0000'
+date: 2020-08-16 19:31:00 +0000
 comments: true
 ---
 
