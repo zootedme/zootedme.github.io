@@ -2,7 +2,7 @@
 layout: page
 title: Write For Us
 permalink: /writeforus
-comments: false
+comments: true
 ---
 
 ![write for us](/assets/images/write-for-us.jpg)
