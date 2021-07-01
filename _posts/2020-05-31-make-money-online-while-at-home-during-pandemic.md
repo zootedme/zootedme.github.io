@@ -3,7 +3,7 @@ title: How to Make Money Online While at Home During Lockdown
 layout: post
 image: assets/images/moneyduringpandemic.png
 categories:
-- MakeMoney
+- Make Money
 - Covid19
 - Blogging
 - WFH

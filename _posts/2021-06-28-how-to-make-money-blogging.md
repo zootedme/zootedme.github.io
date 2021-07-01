@@ -4,7 +4,7 @@ layout: post
 image: assets/images/Can-You-Make-Money-Blogging.png
 categories:
 - Blog
-- MakeMoney
+- Make Money
 - Blogging
 - ''
 toc: true

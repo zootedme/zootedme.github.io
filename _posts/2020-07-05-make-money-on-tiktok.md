@@ -4,7 +4,7 @@ layout: post
 image: assets/images/makemoneyontiktok.jpeg
 categories:
 - Tiktok
-- MakeMoney
+- Make Money
 toc: true
 beforetoc: TikTok, a trending application for creating short videos, has become a
   popular platform to make money online. The major reason behind it is influencer

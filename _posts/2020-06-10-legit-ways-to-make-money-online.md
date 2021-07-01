@@ -4,7 +4,7 @@ layout: post
 image: assets/images/LegitWaystoIncreaseYourIncomeWhileWorkingfromHome.jpg
 categories:
 - WFH
-- MakeMoney
+- Make Money
 toc: true
 beforetoc: Legit Ways to Increase Your Income While Working from Home! In the event
   that you've lost a significant source of income and are battling to get by during

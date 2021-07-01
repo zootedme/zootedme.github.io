@@ -4,7 +4,7 @@ layout: post
 image: assets/images/how-to-make-money-on-instagram-.png
 categories:
 - Instagram
-- MakeMoney
+- Make Money
 - Influencer
 - Affiliate
 toc: true

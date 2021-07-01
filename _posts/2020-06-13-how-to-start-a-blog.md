@@ -4,7 +4,7 @@ layout: post
 image: assets/images/How-to-Start-a-Blog.jpg
 categories:
 - Blog
-- MakeMoney
+- Make Money
 toc: true
 beforetoc: How to Start Your Own Successful Blog And Make Money? So, a blog is a sort
   of site that focuses for the most part around written content, also called blog

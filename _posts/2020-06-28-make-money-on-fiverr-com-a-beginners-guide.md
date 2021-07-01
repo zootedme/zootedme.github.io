@@ -4,7 +4,7 @@ layout: post
 image: assets/images/10-ways-to-make-money-on-Fiverr.png
 categories:
 - Fiverr
-- MakeMoney
+- Make Money
 toc: true
 beforetoc: Basically, Fiverr.com  is a web platform for trading or exchanging services
   in digital media. I purchase and you deliver whatever can be given digitally, actually

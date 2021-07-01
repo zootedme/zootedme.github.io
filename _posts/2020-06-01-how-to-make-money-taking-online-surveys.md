@@ -4,7 +4,7 @@ layout: post
 image: assets/images/How-to-Make-Money-Online-through-Online-Surveys.jpg
 categories:
 - Surveys
-- MakeMoney
+- Make Money
 toc: true
 beforetoc: 'How to Make Money Taking Online Surveys? Taking online surveys is simple,
   though getting started can take a bit of time. Here are the steps involved:'
