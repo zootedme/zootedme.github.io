@@ -14,7 +14,6 @@ beforetoc: The idea of making money online seemed like a novel concept for just
   realistic for most people.
 author: jeff
 ---
-
 The idea of making money online seemed like a novel concept for just a few years. Working from wherever you want, whenever you want, being your own boss, and having supreme flexibility sounded great. But it just wasn’t realistic for most people.
 
 But things have changed. There are now more options than ever, making the Internet a viable source of income.
@@ -29,7 +28,7 @@ Now let’s get right down to it. Here’s how to make money online.
 
 Google “how to make money online,” and one of the first things you see is sites promoting paid market research.
 
-![Screen-Shot-2019-03-27-at-2.21.34-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.21.34-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.21.34-PM.png)
 
 Although it’s not likely something you can make a full-time income with, this is a nice starting point to generate some extra cash.
 
@@ -55,18 +54,15 @@ Ideally, they’ll also have plenty of opportunities, meaning you can participat
 
 [Swagbucks](https://www.swagbucks.com/refer/iddeals) is one of the most popular platforms around, and for good reason.
 
-![Screen-Shot-2019-03-27-at-2.21.44-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.21.44-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.21.44-PM.png)
 
 They’ve been around for over a decade, have a ton of opportunities and pay out with no drama.
 
 Here are some others:
 
 * [Survey Junkie](https://www.surveyjunkie.com/)
-
 * [Toluna](https://us.toluna.com/#/)
-
 * [MyPoints](https://www.mypoints.com/surveys)
-
 * [OneOpinion](https://www.oneopinion.com/)
 
 ## 2. Virtual Assistant
@@ -74,17 +70,11 @@ Here are some others:
 This is a wide umbrella that can consist of many different tasks. Virtual assistants (VAs) may:
 
 * Handle customer support
-
 * Process orders
-
 * Perform data entry
-
 * Work in project management
-
 * Perform content research
-
 * Proofread blog posts
-
 * Format WordPress content
 
 The list goes on.
@@ -100,16 +90,14 @@ Once you get a few projects under your belt and start to build relationships, yo
 There are three sites I suggest checking out initially:
 
 * [Upwork](https://www.upwork.com/)
-
 * [Guru](https://www.guru.com/d/jobs/q/virtual-assistants/)
-
 * [CloudPeeps](https://www.cloudpeeps.com/)
 
 You’ll need to sign up, create a profile and list your skills.
 
 I also recommend using [Indeed](https://www.indeed.com/) because there are often a lot of VA jobs on there. Just search for relevant terms like “virtual assistant” or “remote” under location.
 
-![Screen-Shot-2019-03-27-at-2.21.53-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.21.53-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.21.53-PM.png)
 
 ## 3. Freelance Writer
 
@@ -121,7 +109,7 @@ And many people are making freelance writing a permanent, long-term profession.
 
 According to a 2017 survey by FreelanceWriting.com, “[Over 83 percent of respondents](https://www.freelancewriting.com/research/state-of-freelance-writing-2017/) reported they expect to continue to write for at least five years.”
 
-![Screen-Shot-2019-03-27-at-2.22.03-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.22.03-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.03-PM.png)
 
 As you might imagine, there’s a big disparity in terms of how much freelance writers earn, which involves several factors like experience, industry, content complexity and the number of hours worked per week.
 
@@ -144,14 +132,12 @@ To find paid work as a beginner, I recommend applying to a company like [Textbro
 From there, you can check out the following resources to find gigs:
 
 * [ProBlogger](https://problogger.com/jobs/)
-
 * [Freelance Writing Gigs](https://www.freelancewritinggigs.com/)
-
 * [BloggingPro](https://www.bloggingpro.com/jobs/)
 
 I also find [Indeed](https://www.indeed.com/) to be an amazing resource. Just search for keywords like “freelance writer,” “blogger” and “remote writer.” You’d be surprised at how many companies are seeking quality writers, and the jobs are updated daily.
 
-![Screen-Shot-2019-03-27-at-2.22.19-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.22.19-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.19-PM.png)
 
 ## 4. Teach English Online
 
@@ -166,9 +152,7 @@ In terms of earning potential, you’re usually looking at somewhere around $28 
 ### Companies I Recommend
 
 * [Teach Away](https://www.teachaway.com/online-teaching-jobs)
-
 * [VIPKID](https://t.vipkid.com.cn/?_version=3)
-
 * [DaDa](https://www.dadaabc.com/teacher/landing)
 
 You’ll need to visit their website, learn about the specific requirements and apply.
@@ -176,14 +160,11 @@ You’ll need to visit their website, learn about the specific requirements and 
 Most positions listed will fill you in on the details like:
 
 * Eligibility requirements
-
 * Contract length
-
 * Student level
-
 * Salary and benefits
 
-![Screen-Shot-2019-03-27-at-2.22.26-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.22.26-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.26-PM.png)
 
 ## 5. Create an Online Course
 
@@ -193,17 +174,17 @@ Here’s how it works.
 
 You sign up with a company like [Udemy](https://www.udemy.com/) — they’re one of the best — and check out their course development options. For instance, Udemy has a section called “Become an Instructor.”
 
-![Screen-Shot-2019-03-27-at-2.22.33-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.22.33-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.33-PM.png)
 
 From there, you’ll be able to plan your course and create videos and other educational content.
 
-![Screen-Shot-2019-03-27-at-2.22.42-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.22.42-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.42-PM.png)
 
 You can build a course around pretty much anything. Everything from business and marketing to photography to personal development — whatever you’re an expert at.
 
 Here are some examples of what students are currently interested in on Udemy:
 
-![Screen-Shot-2019-03-27-at-2.22.50-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.22.50-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.50-PM.png)
 
 Every time someone signs up for your course, you make a profit. Although the success rate varies, I’ve heard of many people making a solid passive income through developing an online course.
 
@@ -221,11 +202,11 @@ You can monetize through advertisements (e.g. Google AdSense), affiliate product
 
 Here’s an example of an awesome authority site called [COMET Camper](https://www.cometcamper.com/) (COMET stands for cost-effective, off-grid mobile eco trailer).
 
-![Screen-Shot-2019-03-27-at-2.22.57-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.22.57-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.57-PM.png)
 
 It’s a site promoting “tiny living,” where people live in tiny houses, campers and vans, which is hugely popular at the moment.
 
-![Screen-Shot-2019-03-27-at-2.23.06-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.23.06-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.23.06-PM.png)
 
 It’s basically a resource for learning about the tiny living movement and offers a ton of helpful resources, including a blog and e-course.
 
@@ -276,18 +257,14 @@ There are several platforms that allow you to self-publish your book for free an
 And it’s surprisingly simple.
 
 * Write your book
-
 * Submit it (usually on a Word document)
-
 * Design a cover (many platforms have tools to help with this, or you can use [Canva](https://louder.online/canva-login/))
-
 * Wait for approval
-
 * Sell it in an online marketplace and earn royalties
 
 Here are some examples of books people have recently published on Lulu.
 
-![Screen-Shot-2019-03-27-at-2.23.24-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.23.24-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.23.24-PM.png)
 
 What makes self-publishing feasible for companies is that books are printed on demand. So many of the pains that have traditionally come with publishing a large volume of books are eliminated with this model. They simply print a book whenever someone orders one.
 
@@ -298,14 +275,11 @@ The other great thing is that people can easily find your books through these ty
 If you’re into fashion and have got a knack for design, you can use platforms like [Zazzle](https://www.zazzle.com/) and [CafePress](https://www.cafepress.com/) to create your own customized apparel and earn royalties.
 
 * Create a design on your own or through a platform
-
 * Add it to a t-shirt, hat, sticker, etc.
-
 * Set your royalty rate
-
 * Publish it
 
-![Screen-Shot-2019-03-27-at-2.23.41-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.23.41-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.23.41-PM.png)
 
 Any time someone buys a product with your design, you receive a royalty.
 
@@ -323,11 +297,11 @@ And this is good news if you’ve got photography chops because you can turn thi
 
 Here’s how Shutterstock’s contributor program works:
 
-![Screen-Shot-2019-03-27-at-2.23.49-PM-1024x284.png](/assets/images/Screen-Shot-2019-03-27-at-2.23.49-PM-1024x284.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.23.49-PM-1024x284.png)
 
-And here’s the thing about stock photography. It’s got to be A\+ quality like this.
+And here’s the thing about stock photography. It’s got to be A+ quality like this.
 
-![Screen-Shot-2019-03-27-at-2.23.56-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.23.56-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.23.56-PM.png)
 
 Low quality, grainy, amateur photography won’t cut it.
 
@@ -336,13 +310,9 @@ But with modern camera equipment and editing software being so sophisticated, it
 It’s also helpful to take photos of what people are looking for the most. According to [Stock Photo Secrets](https://www.stockphotosecrets.com/buyers-guide/photography-trends.html), some of the top selling subjects in 2019 are:
 
 * Personal technology
-
 * Nature
-
 * Travel
-
 * Social causes
-
 * Still-life images
 
 ## 11. YouTube
@@ -359,7 +329,7 @@ I’m not saying that it’s easy to grow a massive YouTube channel and bring in
 
 The [YouTube Money Calculator](https://influencermarketinghub.com/youtube-money-calculator/) from Influencer Marketing Hub can give you an idea of how much money you could potentially earn based on daily views and engagement.
 
-![Screen-Shot-2019-03-27-at-2.24.06-PM.png](/assets/images/Screen-Shot-2019-03-27-at-2.24.06-PM.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.24.06-PM.png)
 
 To learn how to build a successful YouTube channel from the ground up, I suggest reading [this guide from DrSoft](https://www.drsoft.com/2018/03/21/how-to-start-youtube-channel-for-beginners/).
 
@@ -380,18 +350,14 @@ Second, you should only purchase in demand items. If it’s something so obscure
 Here’s a list of items that are desirable and can yield a solid profit, according to [Great Performers Academy](https://greatperformersacademy.com/entrepreneurs/top-10-items-to-flip-for-profit-on-craigslist):
 
 * Vehicles
-
 * Technology devices and computers
-
 * Electronics
-
 * High end appliances
-
 * Power tools
 
 Or if you have a lot of knowledge in a particular area, like antiques for instance, you may want to focus on that angle as long as it’s profitable. With a wide variety of categories on Craigslist, the possibilities are endless.
 
-![Screen-Shot-2019-03-27-at-2.24.14-PM_0.png](/assets/images/Screen-Shot-2019-03-27-at-2.24.14-PM_0.png)
+![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.24.14-PM_0.png)
 
 ## Using Your Creativity and Skills to Make Money Online
 
@@ -401,5 +367,5 @@ Some techniques can potentially provide a full-time income, while others are mor
 
 Crushing it with these techniques is all about figuring out what you’re good at and passionate about and aligning it with your personal business goals.
 
-\*\*\*Image Credits\
-\**Featured image: [Fancycrave.com](https://www.pexels.com/@fancycrave) / [Pexels](https://www.pexels.com/photo/man-using-laptop-computer-1308625/)*
+\*\*Image Credits\*\*\
+*Featured image: [Fancycrave.com](https://www.pexels.com/@fancycrave) / [Pexels](https://www.pexels.com/photo/man-using-laptop-computer-1308625/)*
