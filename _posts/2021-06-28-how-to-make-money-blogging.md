@@ -1,7 +1,7 @@
 ---
 title: How to Make Money Blogging
 layout: post
-image: assets/images/Can-You-Make-Money-Blogging.png
+image: /assets/images/Can-You-Make-Money-Blogging.png
 categories:
 - Blog
 - Make Money

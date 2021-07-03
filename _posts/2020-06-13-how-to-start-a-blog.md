@@ -1,7 +1,7 @@
 ---
 title: How to Start Your Own Successful Blog And Make Money?
 layout: post
-image: assets/images/How-to-Start-a-Blog.jpg
+image: /assets/images/How-to-Start-a-Blog.jpg
 categories:
 - Blog
 - Make Money

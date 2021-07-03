@@ -1,7 +1,7 @@
 ---
 title: Top 5 Mobile Apps to Earn Real Cash
 layout: post
-image: assets/images/5app-to-make-money-online.jpg
+image: /assets/images/5app-to-make-money-online.jpg
 categories:
 - Make Money
 - Rewards

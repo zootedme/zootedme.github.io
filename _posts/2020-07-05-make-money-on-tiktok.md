@@ -1,7 +1,7 @@
 ---
 title: How to Make Money on Tiktok
 layout: post
-image: assets/images/makemoneyontiktok.jpeg
+image: /assets/images/makemoneyontiktok.jpeg
 categories:
 - Tiktok
 - Make Money

@@ -1,7 +1,7 @@
 ---
 title: 'Make Money On Fiverr.Com : A Beginners Guide'
 layout: post
-image: assets/images/10-ways-to-make-money-on-Fiverr.png
+image: /assets/images/10-ways-to-make-money-on-Fiverr.png
 categories:
 - Fiverr
 - Make Money

@@ -1,7 +1,7 @@
 ---
 title: Legit Ways to Increase Your Income While Working from Home
 layout: post
-image: assets/images/LegitWaystoIncreaseYourIncomeWhileWorkingfromHome.jpg
+image: /assets/images/LegitWaystoIncreaseYourIncomeWhileWorkingfromHome.jpg
 categories:
 - WFH
 - Make Money

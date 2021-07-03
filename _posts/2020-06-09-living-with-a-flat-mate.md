@@ -1,7 +1,7 @@
 ---
 title: The Right Way to Split Bills with Roommates
 layout: post
-image: assets/images/Whos-Covering-the-Paper-Towels.jpg
+image: /assets/images/Whos-Covering-the-Paper-Towels.jpg
 categories:
 - Money
 - ''

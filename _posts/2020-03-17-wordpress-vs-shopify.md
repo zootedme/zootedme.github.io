@@ -1,7 +1,7 @@
 ---
 title: 'WordPress Vs Shopify: Figure out Which One Is Better?'
 layout: post
-image: assets/images/WodpressVSshopify.png
+image: /assets/images/WodpressVSshopify.png
 categories:
 - Wordpress
 - Shopify

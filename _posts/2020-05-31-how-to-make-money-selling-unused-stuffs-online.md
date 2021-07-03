@@ -1,7 +1,7 @@
 ---
 title: How to Make Money Selling Unused Stuffs Online
 layout: post
-image: assets/images/1584050911.jpg
+image: /assets/images/1584050911.jpg
 categories:
 - Make Money
 - Craigslist

@@ -1,7 +1,7 @@
 ---
 title: How to Make Money Taking Online Surveys?
 layout: post
-image: assets/images/How-to-Make-Money-Online-through-Online-Surveys.jpg
+image: /assets/images/How-to-Make-Money-Online-through-Online-Surveys.jpg
 categories:
 - Surveys
 - Make Money

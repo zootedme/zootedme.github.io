@@ -1,7 +1,7 @@
 ---
 title: Best Financial Tips to Avoid Going Broke in Your 20s
 layout: post
-image: assets/images/GettyImages-594832477_411045.jpg
+image: /assets/images/GettyImages-594832477_411045.jpg
 categories:
 - Financing
 - Budgeting

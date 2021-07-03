@@ -1,7 +1,7 @@
 ---
 title: 31 Ways to Make Money Online using WordPress
 layout: post
-image: assets/images/Make-Money-With-WordPress-Facebook-1-1024x536.png
+image: /assets/images/Make-Money-With-WordPress-Facebook-1-1024x536.png
 categories:
 - Money
 - Online

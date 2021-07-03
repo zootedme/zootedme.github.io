@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Money While You Travel Full-Time
-image: assets/images/how-to-make-money-while-you-travel.png
+image: /assets/images/how-to-make-money-while-you-travel.png
 categories:
   - Make Money
   - Workamping

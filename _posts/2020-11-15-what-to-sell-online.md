@@ -1,7 +1,7 @@
 ---
 title: Questions to ask to find out what you can sell online
 layout: post
-image: assets/images/sell-online.png
+image: /assets/images/sell-online.png
 categories:
 - Blog
 - Online

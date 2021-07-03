@@ -1,7 +1,7 @@
 ---
 title: How to Make Money on Instagram in 2021
 layout: post
-image: assets/images/how-to-make-money-on-instagram-.png
+image: /assets/images/how-to-make-money-on-instagram-.png
 categories:
 - Instagram
 - Make Money

@@ -1,7 +1,7 @@
 ---
 title: Best Job Search Sites to Help Find Your Next Dream Job
 layout: post
-image: assets/images/1586470763.png
+image: /assets/images/1586470763.png
 categories:
 - Jobs
 - CareerBuilder

@@ -1,7 +1,7 @@
 ---
 title: 10 Practical Methods to Make Money Online
 layout: post
-image: assets/images/Make-Money-Online-1.jpg
+image: /assets/images/Make-Money-Online-1.jpg
 categories:
 - Money
 - Affiliate
