@@ -1,18 +1,18 @@
 ---
-title: 15 Best Website Builders (Free and Paid)
-image: assets/images/Website-Builder.png
-comments: true
 layout: post
-toc: true
-beforetoc: So you finally decided to create your own website, huh? Congrats on that.
-  Now you must be finding an easy way to create that website, a website builder, maybe?
-  No wonder you are confused. There are so many out there with similar offerings.
-  Anyone can get confused. Let’s solve the puzzle a bit and see if we can find some
-  winners for *Website Builder for 2020*
-author: jeff
+title: 15 Best Website Builders (Free and Paid)
+image: /assets/images/website-builder.png
 categories:
-- Blog
-- website
+  - Blog
+  - website
+toc: true
+beforetoc: So you finally decided to create your own website, huh? Congrats on
+  that. Now you must be finding an easy way to create that website, a website
+  builder, maybe? No wonder you are confused. There are so many out there with
+  similar offerings. Anyone can get confused. Let’s solve the puzzle a bit and
+  see if we can find some winners for *Website Builder for 2020*
+author: jeff
+comments: true
 ---
 
 So you finally decided to create your own website, huh? Congrats on that. Now you must be finding an easy way to create that website, a website builder, maybe? No wonder you are confused. There are so many out there with similar offerings. Anyone can get confused. Let’s solve the puzzle a bit and see if we can find some winners for *Website Builder for 2020*
