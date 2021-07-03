@@ -67,7 +67,7 @@ The basic plan is free but very limiting. All the paid plans are billed annually
 
 ## **3. [Wix](https://www.wix.com/)**
 
-![Wix_](/assets/images/Wix_logo-1024x456.png)
+![Wix_](/assets/images/wix_logo-1024x456.png)
 
 Wix is a website builder that is based on cloud. It offers ease of use and tons of customizations.
 
