@@ -2,8 +2,10 @@
 layout: page
 title: Write For Us
 permalink: /writeforus
-comments: false
+comments: true
 ---
+
+![write for us](/assets/images/write-for-us.jpg)
 
 We’re always looking for fresh new voices to write articles for us. So, if you have an idea that will interest our readers and help them grow, we will be glad to hear from you!
 
@@ -61,7 +63,7 @@ You can send us using Google docs so the editors can easily provide feedback wit
 
 After your submission, an editor will review it and determine if it’s a potential fit to our niche. We will review and discuss your submission and provide you feedback with the necessary notes. Once you’ve acknowledged your comments, send us your second draft and we will let you know if it got accepted.
 
-If we accept your article we’ll schedule your publication as soon as the revisions are done. We don’t publish multiple post in a day but we’ll let you know when yours is life.
+If we accept your article we’ll schedule your publication as soon as the revisions are done. We don’t publish multiple post in a day but we’ll let you know when yours is live.
 
 Questions are welcome too.
 
