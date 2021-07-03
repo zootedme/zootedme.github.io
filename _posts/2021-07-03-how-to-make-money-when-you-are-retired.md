@@ -3,7 +3,9 @@ layout: post
 title: How to Make Money When You Are Retired?
 image: /assets/images/make-money-when-you-are-retired.webp
 categories:
-  - WFH.Entrepreneurship
+  - WFH
+  - Entrepreneurship
+  - Make Money
 toc: true
 beforetoc: "You may have reached the end of your job and decided to retire.
   Alternatively, you may be ready to start a new business in addition to your
