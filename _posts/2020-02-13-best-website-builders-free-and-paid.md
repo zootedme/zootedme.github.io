@@ -14,7 +14,6 @@ beforetoc: So you finally decided to create your own website, huh? Congrats on
 author: jeff
 comments: true
 ---
-
 So you finally decided to create your own website, huh? Congrats on that. Now you must be finding an easy way to create that website, a website builder, maybe? No wonder you are confused. There are so many out there with similar offerings. Anyone can get confused. Let’s solve the puzzle a bit and see if we can find some winners for *Website Builder for 2020*
 
 ## **1. [WordPress.org](https://wordpress.org/)**
@@ -26,23 +25,16 @@ WordPress.org is the most popular website builder in the world. It is open sourc
 **Pros:**
 
 * It is free, it costs nothing to build your website
-
 * It is completely customizable
-
 * There are more than 2500 themes available for free
-
 * It supports more than 50,000 plugins and more are added day by day
-
 * Migration to other platforms is easy.
-
 * You can create a robust E-commerce website using WordPress
-
 * You can create a multilingual website using WordPress
 
 **Cons:**
 
 * You need to install WordPress on your own host, so the cost of hosting is the main drawback. Plus you need to maintain the hosting environment. That’s a bit of a technicality.
-
 * You need to purchase the domain name separately.
 
 **Pricing:**
@@ -60,17 +52,13 @@ Confused about WordPress.org and WordPress.com? WordPress.org is a free offering
 **Pros:**
 
 * It is a website hosting service
-
 * It takes care of software and backups automatically.
-
 * It offers access to paid themes and plugins
 
 **Cons:**
 
 * You need to upgrade to their business plan to install custom themes and plugins
-
 * It does not support eCommerce feature and third-party ad support for a premium or lower plans
-
 * You have to follow the terms and conditions of WordPress.com when scaling up your eCommerce business.
 
 **Pricing:**
@@ -79,36 +67,26 @@ The basic plan is free but very limiting. All the paid plans are billed annually
 
 ## **3. [Wix](https://www.wix.com/)**
 
-![Wix_logo-1024x456.png](/assets/images/Wix_logo-1024x456.png)
+![Wix_](/assets/images/wix_logo-1024x456.png)
 
 Wix is a website builder that is based on cloud. It offers ease of use and tons of customizations.
 
 **Pros:**
 
 * Wix is a legit website builder. More than 100 million users use it worldwide.
-
 * It provides a user experience that is optimized for all devices. You can create responsive websites.
-
 * It is an excellent option for ecommerce stores.
-
 * There are endless customizations and you can tweak it the way you want.
-
 * It has decent support.
-
 * It offers long-term discounts, making longer-term purchases cheaper.
-
 * You get free SSL with each paid plan
 
 **Cons:**
 
 * It offers email accounts with G-suite for **$5** which is costly.
-
 * E-commerce websites are available at a higher price.
-
 * Free plans include ads by Wix. You need to purchase premium plans to remove this ad.
-
 * Moving your website to another platform is quite complete.
-
 * You need to buy domain name yourself in case you opt for a connect domain plan.
 
 **Pricing:**
@@ -124,27 +102,18 @@ Shopify is a website builder that is specifically targeted for online stores and
 **Pros:**
 
 * It is a fully hosted website solution
-
 * One does not need to worry software, update installation or keeping regular backups.
-
 * It has integrated payment solution called Shopify Payments.
-
 * It supports third party payment gateways.
-
 * It offers full inventory management.
-
 * It allows unlimited products, easy marketing solutions.
-
 * It has an intuitive drag and drop interface which makes it easy to build custom websites without knowing any code.
-
 * There are multiple customizations available.
-
 * We can integrate shopify into WordPress
 
 **Cons:**
 
 * The pricing is a bit costly compared to other website builders.
-
 * Migration from shopify is difficult
 
 **Pricing:**
@@ -160,25 +129,17 @@ BoldGrid is a website builder that is built upon WordPress, thus it takes full a
 **Pros:**
 
 * User can take benefit of the functionality of WordPress
-
 * Migration is easier.
-
 * You get 100% ownership of the website
-
 * The plugin itself is free
-
 * There is a huge community support
-
 * You can set up a staging site.
-
 * Website code can be customized.
-
 * It offers good customer support
 
 **Cons:**
 
 * Unlike all-in-one website builders, you have to pay for hosting separately.
-
 * For eCommerce, drag and drop tools are not available.
 
 **Pricing:**
@@ -194,23 +155,16 @@ Weebly is one of the fastest growing and perhaps the oldest website building pla
 **Pros:**
 
 * It is a fully hosted platform thus it removes the need to install and manage a software. It takes care of hosting and manages the software at the backend.
-
 * It comes with a intuitive page builder. There are numerous website designs to start with.
-
 * It has built-in ecommerce support
-
 * It features contact forms, photo galleries, sliders and more
-
 * It supports custom fonts
-
 * It has advanced animation effects and other cool feature to make your website stand out.
 
 **Cons:**
 
 * User is locked with the features that are offered.
-
 * No further independent development or coding is possible.
-
 * There is a charge of **3%** on every purchase made on its ecommerce platform.
 
 **Pricing:**
@@ -226,19 +180,14 @@ Squarespace offers professionally designed templates and lot of customization op
 **Pros:**
 
 * It has great enterprise grade infrastructure that is perfect for your website hosting.
-
 * It is secure and robust platform
-
 * It offers fully editable numerous templates. It even allows one to use multiple templates for the same website.
-
 * It has an ecommerce platform that has an user-friendly interface
 
 **Cons:**
 
 * It offers limited integration with third party services.
-
 * The ecommerce plans restricts payment gateways only to Apple Pay, Stripe and PayPal.
-
 * It is costly compared to the competitors.
 
 **Pricing**
@@ -254,19 +203,14 @@ iPage is an add-on the hosting service provided by iPage. It is easy to use, cus
 **Pros:**
 
 * Drag and drop functionality makes it easier to build a website
-
-* It includes 100\+ page templates that are mobile friendly.
-
+* It includes 100+ page templates that are mobile friendly.
 * It has built in social media tools, SEO settings, beautiful image galleries.
-
 * It can embed videos, Google Analytics and add ecommerce store
 
 **Cons:**
 
 * It is limited in terms features offered.
-
 * It is not possible to add a new feature to your website.
-
 * It does not support third party integrations and add-ons.
 
 **Pricing:**
@@ -282,25 +226,17 @@ GoDaddy, one of the largest hosting provider in the world, recently changed its 
 **Pros:**
 
 * You can create a website in a matter of minutes and can go live instantly
-
 * It is very easy to use.
-
 * The drag and drop functionality comes with several customized blocks.
-
 * It has a photo gallery integrated with professional images from Getty Photography that can be used by the users.
-
 * Its pricing is cheaper compared to some other competitors.
 
 **Cons:**
 
 * It does not allow much creative freedom
-
 * Some of its features lack depth
-
 * Its sites aren’t as visually appealing.
-
 * Migration to WordPress is quite difficult
-
 * Emails are expensive.
 
 **Pricing:**
@@ -316,23 +252,16 @@ This might just be the website builder that has received the poorest of reviews 
 **Pros:**
 
 * The cheap **$1.5** offer that gives you a custom domain name.
-
 * You can publish site instantly using industry specific photos from Web.com
-
 * It has 24/7 phone support
 
 **Cons:**
 
 * It has highly overpriced plans
-
 * There is no free plan or free trial
-
 * The customization tools aren’t that user-friendly
-
 * Template quality is low
-
 * It has a horribly designed knowledgebase.
-
 * They have shady billing practices.
 
 **Pricing**
@@ -348,23 +277,16 @@ Webs website builder has helped run more than 55 million websites. It is one of 
 **Pros:**
 
 * They provide around 2500 design templates
-
 * It is user-friendly and intuitive
-
 * It allows the user to build membership directly on their platform
-
 * You can integrate third party tools using its App Store
-
 * It provides a good customer service experience.
 
 **Cons:**
 
 * It has limited set of features
-
 * Its integrations can not be extended.
-
 * You cannot hire a developer to integrate a tool or code.
-
 * Its templates are not easy to edit.
 
 **Pricing**
@@ -380,23 +302,16 @@ Site123 is a very simple and no-nonsense, straightforward website builder. Its d
 **Pros:**
 
 * Ecommerce is well supported with an extensive knowledge base.
-
 * Visually pleasing hundreds of design templates.
-
 * Delivers superior uptime
-
 * Themes are mobile-friendly and responsive
-
 * Provides App Market
 
 **Cons:**
 
 * You can’t change template once your site goes live
-
 * It does not provide much creativity and flexibility
-
 * Some features lack depth
-
 * Support is not at par
 
 **Pricing:**
@@ -412,23 +327,16 @@ Webnode is one of the largest players in the website building industry with more
 **Pros:**
 
 * With its drag and drop editor, it is easy to use.
-
 * It offers responsive designs with a lot of variety.
-
 * It has a multilingual feature to support different language versions of your website.
-
 * It is SEO friendly
-
 * It provides a good contact form and password protection is great
 
 **Cons:**
 
 * It has limited ecommerce features
-
 * The blog service is basic
-
 * It can take some time until you know your way around.
-
 * It is missing some important widgets.
 
 **Pricing:**
@@ -444,19 +352,14 @@ SiteBuilder’s drag and drop editor can help you create a simple website in min
 **Pro:**
 
 * More than 2,00,000 users have used it
-
 * There are more than 1200 templates to choose from.
-
 * You get the free domain name for the first year without any ads on your website
 
 **Cons:**
 
 * Emails cost extra at $5/ month through Google’s G-Suite.
-
 * Limited customization limits creativity
-
 * The site does not feature any extra services
-
 * The Premium plans are overpriced
 
 **Pricing:**
@@ -472,19 +375,14 @@ Jimdo Creator has created more than 20 million websites. It’s focus on easy to
 **Pros:**
 
 * Good Pricing
-
 * Easy to Use
-
 * It is SEO friendly
-
 * It has a mobile app
-
 * Best speed performance
 
 **Cons:**
 
 * Templates are rigid, it’s difficult to add functionality
-
 * There is a lack of numerous customizations. There are very few templates available.
 
 **Pricing:**
