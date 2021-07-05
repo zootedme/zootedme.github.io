@@ -49,6 +49,7 @@ Do you have a strong desire to write? By freelancing your writing skills, you ca
 * Create a profile for yourself 
 * Add skill  
 * Add a payment option
+
 <br/><br/>
 ### **Product Testing**
 <br/><br/>
@@ -64,6 +65,7 @@ Every mother understands that families go through a lot of food and products. Wh
 
 * Join a program or apply for one to receive free stuff.
 * Put the products to the test and complete a questionnaire or survey.
+
 <br/><br/>
 ### **Turn your hobby into business**
 <br/><br/>
@@ -80,6 +82,7 @@ If you're a parent who enjoys crafting, consider turning it into a side business
 * Sell your crafts on an online marketplace such as Etsy or Ebay.
 
 > **Also Read: [Make Money On Fiverr.Com : A Beginners Guide](https://www.internetdailydeals.com/make-money-on-fiverr-com-a-beginners-guide/)**
+
 <br/><br/>
 ### **Work in the garden**
 <br/><br/>
@@ -95,6 +98,7 @@ Make some additional money by helping people with their yards and gardens, espec
 * Advertise your services in a local Facebook group.
 <br/><br/>
 ![8 Legitimate Side Hustles For Stay-at-Home Moms](/assets/images/side-hustle-for-mom.jpg)
+
 <br/><br/>
 ### **Social Media Manager**
 <br/><br/>
@@ -108,6 +112,7 @@ Are you already a social media guru? Help others manage their social media netwo
 
 * Use Upwork or Fiverr to freelance your skills.
 * Use LinkedIn to look for part-time social media jobs. 
+
 <br/><br/>
 ### **Create a YouTube Channel**
 <br/><br/>
@@ -126,6 +131,8 @@ Find a topic that suits your interests and begin publishing regularly to increas
 * Create a YouTube account.
 * Get some video equipment like a camera, microphone, and lighting
 * Make a video, edit it, and upload it.
+
+
 <br/><br/>
 ### **House Flipping**
 <br/><br/>
