@@ -79,8 +79,9 @@ If you're a parent who enjoys crafting, consider turning it into a side business
 **How to Start:**
 
 * Gather your supplies and begin to work.
-* Sell your crafts on an online marketplace such as Etsy or Ebay.
+* Sell your crafts on an online marketplace such as Etsy or ebay.
 
+<br/><br/>
 > **Also Read: [Make Money On Fiverr.Com : A Beginners Guide](https://www.internetdailydeals.com/make-money-on-fiverr-com-a-beginners-guide/)**
 
 <br/><br/>
