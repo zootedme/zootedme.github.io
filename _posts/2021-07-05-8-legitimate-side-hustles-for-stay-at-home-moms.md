@@ -96,6 +96,7 @@ Make some additional money by helping people with their yards and gardens, espec
 
 * Gather your favorite gardening supplies 
 * Advertise your services in a local Facebook group.
+
 <br/><br/>
 ![8 Legitimate Side Hustles For Stay-at-Home Moms](/assets/images/side-hustle-for-mom.jpg)
 
