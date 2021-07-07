@@ -12,7 +12,7 @@ beforetoc: Going by RV is an incredible method to unwind and explore the world
   at your own pace. Perhaps the greatest inquiry individuals have while thinking
   about RVing full-time, for an all-encompassing road trip, or in any event,
   traveling for some portion of the year is, how will I bring in cash?
-author: jeff
+author: Jeff
 date: 2020-08-16 19:31:00 +0000
 comments: true
 ---

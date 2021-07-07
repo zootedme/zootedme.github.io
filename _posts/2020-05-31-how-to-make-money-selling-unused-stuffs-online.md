@@ -10,7 +10,7 @@ beforetoc: How to Make Money Selling Unused Stuffs Online. Have a great deal of 
   around the house? In the event that a yard deal isn't generally your thing, eBay
   and Craigslist are two spots to list utilized things available to sell online, including
   furniture, attire, hardware, and toys.
-author: jeff
+author: Jeff
 date: '2020-05-31 17:45:00 +0000'
 comments: true
 ---
