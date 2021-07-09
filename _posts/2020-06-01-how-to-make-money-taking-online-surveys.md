@@ -8,7 +8,7 @@ categories:
 toc: true
 beforetoc: 'How to Make Money Taking Online Surveys? Taking online surveys is simple,
   though getting started can take a bit of time. Here are the steps involved:'
-author: jeff
+author: Jeff
 date: '2020-06-01 06:34:00 +0000'
 comments: true
 ---

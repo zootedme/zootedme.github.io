@@ -9,12 +9,10 @@ toc: true
 beforetoc: Best Financial Tips to Avoid Going Broke in Your 20s. There's a major misinterpretation
   that you should be poor in your twenties. And keeping in mind that it's presumably
   better to be 20 and broke than 60, it doesn't mean it's a smart thought.
-author: jeff
+author: Jeff
 featured: true
 date: '2020-07-21 00:00:00 +0000'
-tags:
-- make money
-- saving
+
 ---
 
 There's a major misinterpretation that you should be poor in your twenties. And keeping in mind that it's presumably better to be 20 and broke than 60, it doesn't mean it's a smart thought.

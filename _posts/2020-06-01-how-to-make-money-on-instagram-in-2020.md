@@ -11,7 +11,7 @@ toc: true
 beforetoc: 'Instagram is seemingly a very simple social media platform. Compared with
   the likes of Facebook or even Twitter, Instagram has an extremely narrow focus:
   posting images.'
-author: jeff
+author: Jeff
 date: '2020-06-01 06:29:00 +0000'
 comments: true
 ---

@@ -8,11 +8,12 @@ categories:
   - Marketing
   - Virtual Assistant
 toc: true
+comments: false
 beforetoc: The idea of making money online seemed like a novel concept for just
   a few years. Working from wherever you want, whenever you want, being your own
   boss, and having supreme flexibility sounded great. But it just wasn’t
   realistic for most people.
-author: jeff
+author: Jeff
 ---
 The idea of making money online seemed like a novel concept for just a few years. Working from wherever you want, whenever you want, being your own boss, and having supreme flexibility sounded great. But it just wasn’t realistic for most people.
 

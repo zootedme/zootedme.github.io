@@ -9,7 +9,7 @@ toc: true
 beforetoc: How to Start Your Own Successful Blog And Make Money? So, a blog is a sort
   of site that focuses for the most part around written content, also called blog
   entries. In mainstream
-author: jeff
+author: Jeff
 date: '2020-06-13 06:08:00 +0000'
 comments: true
 ---

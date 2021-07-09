@@ -4,7 +4,8 @@ title: "Internet Daily Deals "
 description: "We strive to help our readers find the best deals on quality products and services"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
-baseurl: 
+baseurl: ''
+url: https://www.internetdailydeals.com
 google_analytics: 'G-6XCXLHK0WG'
 disqus: 'iddeals'
 mailchimp-list: 'https://club.us5.list-manage.com/subscribe/post?u=a839bbbdc37891b132e7db91c&amp;id=d151dabdf3'
@@ -16,7 +17,7 @@ formsfree: xwkalnqd
 # Authors
 authors:
 
-  jeff:
+  Jeff:
     name: Jeff
     display_name: Jeff    
     avatar: 'assets/images/avatar.png'
@@ -66,7 +67,7 @@ adsense-data-ad-slot: "5601250540"
 lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 
 

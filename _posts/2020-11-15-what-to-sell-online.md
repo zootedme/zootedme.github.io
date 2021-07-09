@@ -9,7 +9,7 @@ toc: true
 beforetoc: Money to be made online is no secret. The e-commerce industry has ballooned
   since the first online purchases back in 1994, with some sources estimating that
   companies in the United States would bring in nearly
-author: jeff
+author: Jeff
 date: '2020-11-15 00:00:00 +0000'
 comments: true
 ---

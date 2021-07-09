@@ -11,7 +11,7 @@ toc: true
 beforetoc: There are lots of ways to monetize your blog once you have a good number
   of visitors. But when you are just starting out you won’t have many readers, so
   it’s important to make the most of each one.
-author: jeff
+author: Jeff
 comments: true
 ---
 

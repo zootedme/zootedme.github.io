@@ -11,7 +11,7 @@ beforetoc: TikTok, a trending application for creating short videos, has become 
   marketing. Through this, people who can influence others can make money simply using
   their TikTok account. If you want to opt this way of making money, follow the steps
   mentioned below.
-author: jeff
+author: Jeff
 date: '2020-07-05 06:25:00 +0000'
 comments: true
 ---

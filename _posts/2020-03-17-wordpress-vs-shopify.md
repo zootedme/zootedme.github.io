@@ -9,7 +9,7 @@ toc: true
 beforetoc: All the platforms contain a wide range of features and functionalities
   that differ from each platform from another. But the two best website creation platforms
   are WordPress and Shopify.
-author: jeff
+author: Jeff
 date: '2020-03-17 06:59:00 +0000'
 comments: true
 ---

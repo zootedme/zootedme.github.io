@@ -18,6 +18,8 @@ collections:
       - { label: "Featured", name: "image", widget: "image" }
       - { label: "Category", name: "categories", widget: "list" }
       - { label: "TOC", name: "toc", widget: "boolean", default: true }
+      - { label: "Comments", name: "comments", widget: "boolean", default: true }
       - { label: "BeforeTOC", name: "beforetoc", widget: "string"}
       - { label: "Author", name: "author", widget: "string"}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      
