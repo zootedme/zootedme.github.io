@@ -10,8 +10,7 @@ comments: true
 beforetoc: Mid-range smartphones are designed to offer flagship-level
   functionality at a lower price. You may have to give up a little on one or
   more features, such as the camera or build quality, but saving hundreds of
-  dollars is often well worth it - and some of the phones at the top of the
-  price range are flagships in their own right.
+  dollars is often well worth it 
 author: jeff
 ---
 Although not everyone can afford a flagship phone like the Samsung Galaxy S21 Ultra or the iPhone 12 Pro, the good news is that there are many less expensive options that provide an outstanding experience.
