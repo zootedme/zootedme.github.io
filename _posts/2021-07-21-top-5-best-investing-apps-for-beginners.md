@@ -80,13 +80,12 @@ No bonds or mutual funds
 <br/><br/>
 
 > **Also Read: [What is an NFT and How does it work?](https://www.internetdailydeals.com/what-is-an-nft-and-how-does-it-work/)**
->
 
 <br/><br/>
 
 ### **SoFi Invest**
 
-![Top 5 Best Investing Apps for Beginners - SoFi Invest](/assets/images/sofi-app.png)
+![Top 5 Best Investing Apps for Beginners - SoFi Invest](/assets/images/sofi-invest-mobile.png)
 
 SoFi Invest is one of the top-rated investing apps in the Apple Store, and it's suitable for investors of all skill levels. Beginners can choose automated investing and have SoFi's investors develop their wealth for them. You may diversify your portfolio by choosing from crypto, stocks, or exchange-traded funds (ETFs) if you're a more hands-on beginning. With SoFi's low-cost options, all you need is $1 to start trading without paying commissions.
 
