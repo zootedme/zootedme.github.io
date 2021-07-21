@@ -80,7 +80,9 @@ No bonds or mutual funds
 <br/><br/>
 
 > **Also Read: [What is an NFT and How does it work?](https://www.internetdailydeals.com/what-is-an-nft-and-how-does-it-work/)**
-> <br/><br/><br/><br/>
+>
+
+<br/><br/>
 
 ### **SoFi Invest**
 
