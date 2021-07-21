@@ -36,8 +36,16 @@ If you want to buy NFTs, you'll need to lock and load your crypto wallet, which 
 
 It's simple: make something, mint it (this is how your work ends up on the Ethereum blockchain), and register to sell it on several marketplaces. There is a cost connected with the minting and selling procedure, which varies depending on the platform you use. You can also include provisions in your NFTs, such as royalties if copies are sold, but this is not required.
 
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/6wuBl4xVR0g"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
- [![What is an NFT and How does it work?](https://res.cloudinary.com/marcomontalbano/image/upload/v1626794428/video_to_markdown/images/youtube--6wuBl4xVR0g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=6wuBl4xVR0g "What is an NFT and How does it work?")
 
 
 Source: Trust Wallet 
