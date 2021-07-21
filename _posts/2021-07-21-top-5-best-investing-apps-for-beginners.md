@@ -42,11 +42,11 @@ Can’t build your own portfolio
 
 **Features:**
 
-**Fees:** $1 to $5 per month
-**Commissions:** None
-**Minimum balance:** None to open, $5 to invest
+- **Fees:** $1 to $5 per month
+- **Commissions:** None
+- **Minimum balance:** None to open, $5 to invest
 
-**Apple Store Rating:** 4.7 out of 5 stars
+**Apple Store Rating:** 4.7 out of 5 stars<br/>
 **Google Play Rating:** 4.4 out of 5 stars
 
 <br/><br/>
@@ -70,11 +70,11 @@ No bonds or mutual funds
 
 **Features:**
 
-**Fees:** None or $5 per month for Robinhood Gold
-**Commissions:** None
-**Minimum balance:** None
+- **Fees:** None or $5 per month for Robinhood Gold
+- **Commissions:** None
+- **Minimum balance:** None
 
-**Apple Store Rating:** 4.1 out of 5 stars 
+**Apple Store Rating:** 4.1 out of 5 stars <br/>
 **Google Play Rating:** 1.1 out of 5 stars
 
 <br/><br/>
@@ -102,11 +102,12 @@ Limited investment options
 
 **Features:**
 
-**Fees:** None
-**Commissions:** None
-**Minimum balance:** None
+- **Fees:** None
+- **Commissions:** None
+- **Minimum balance:** None
 
-**Apple Store Rating:** 4.8 out of 5 stars 
+
+**Apple Store Rating:** 4.8 out of 5 stars <br/>
 **Google Play Rating:** 4.1 out of 5 stars
 
 <br/><br/>
@@ -129,12 +130,12 @@ High minimum balance for Premium plan
 
 **Features:**
 
-**Fees:** Annual fees of 0.25 percent or 0.4 percent of your balance, various fund fees
-**Commissions:** None
-**Minimum balance:** None for Digital, $100,000 for Premium
+- **Fees:** Annual fees of 0.25 percent or 0.4 percent of your balance, various fund fees
+- **Commissions:** None
+- **Minimum balance:** None for Digital, $100,000 for Premium
 
 **Apple Store Rating:** 4.8 out of 5 stars
-**Google Play Rating:** 4.6 out of 5 stars
+<br/>**Google Play Rating:** 4.6 out of 5 stars
 
 <br/><br/>
 
@@ -158,12 +159,12 @@ Investments are not liquid
 
 **Features:**
 
-**Fees:** 0.15% annual advisory fee
+- **Fees:** 0.15% annual advisory fee
 0.85% annual asset management fee for standard portfolios
-**Commissions:** None
-**Minimum balance:** $500 for Starter account (Varying minimums for other account types)
+- **Commissions:** None
+- **Minimum balance:** $500 for Starter account (Varying minimums for other account types)
 
 **Apple Store Rating:** 4.8 out of 5 stars 
-**Google Play Rating:** 4.6 out of 5 stars
+<br/>**Google Play Rating:** 4.6 out of 5 stars
 <br/><br/><br/><br/>
 There's a mobile investing app to help you get started, whether you're a hands-off beginner or a hands-on learner. To begin growing your money immediately, download one of these top investing apps for beginners.
