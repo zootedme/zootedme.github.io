@@ -10,7 +10,7 @@ comments: true
 beforetoc: "What is an NFT? Perhaps you've seen NFTs on social media or in
   articles but haven't taken the time to figure out what all the fuss is about.
   "
-author: jeff
+author: Jeff
 ---
 What is an NFT? Perhaps you've seen NFTs on social media or in articles but haven't taken the time to figure out what all the fuss is about. Or perhaps you're fully aware and require further information to help you manage something that looks to be unfamiliar. We are delighted to have you! We will explain everything to the best of our ability in the most straightforward manner imaginable.
 
