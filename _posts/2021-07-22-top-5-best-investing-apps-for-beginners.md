@@ -30,9 +30,9 @@ Even if you don't have a lot of money to invest, make sure it's spread out. What
 **Pros:**
 
 Invests spare change from purchases automatically
-Built-in robo-advisor
+Built-in Robo-advisor
 Educational and investing support
-Cash back at select retailers
+Cashback at select retailers
 
 **Cons:**
 
@@ -55,7 +55,7 @@ Can’t build your own portfolio
 
 ![Top 5 Best Investing Apps for Beginners - Robinhood](/assets/images/robinhood-app.webp)
 
-Beginners will find it simple to get started with Robinhood and invest commission-free with no minimum amount or fees. Thanks to fractional shares, users may personalize their portfolios, trade in real time, and invest any amount they choose. Robinhood is a good alternative for beginners who only want to trade stocks and ETFs, and new customers can receive their first stock for free.
+Beginners will find it simple to get started with Robinhood and invest commission-free with no minimum amount or fees. Thanks to fractional shares, users may personalize their portfolios, trade in real-time, and invest any amount they choose. Robinhood is a good alternative for beginners who only want to trade stocks and ETFs, and new customers can receive their first stock for free.
 
 **Pros:**
 
@@ -80,7 +80,7 @@ No bonds or mutual funds
 <br/><br/>
 
 > **Also Read: [What is an NFT and How does it work?](https://www.internetdailydeals.com/what-is-an-nft-and-how-does-it-work/)**
-> <br/><br/>
+> <br/><br/><br/><br/>
 
 ### **SoFi Invest**
 
@@ -112,7 +112,7 @@ Limited investment options
 
 ### **Betterment**
 
-![Top 5 Best Investing Apps for Beginners - Betterment](/assets/images/betterment-app.jpg)
+![Top 5 Best Investing Apps for Beginners - Betterment](/assets/images/betterment-app.webp)
 
 Start with Betterment if you want an investment tool that will help you achieve your goals. This program is ideal for beginners because it handles everything from money management to investing, trading, and portfolio rebalancing. The only catch is that Betterment will take care of everything for you if you're prepared to pay a little extra. You have two options for investing: Digital (0.25 percent of your balance) or Premium  (0.4 percent of your balance).
 
@@ -164,5 +164,5 @@ Investments are not liquid
 
 **Apple Store Rating:** 4.8 out of 5 stars 
 **Google Play Rating:** 4.6 out of 5 stars
-
+<br/><br/><br/><br/>
 There's a mobile investing app to help you get started, whether you're a hands-off beginner or a hands-on learner. To begin growing your money immediately, download one of these top investing apps for beginners.
