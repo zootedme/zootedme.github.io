@@ -5,6 +5,7 @@ image: /assets/images/what-is-an-nft-and-how-does-it-work.jpg
 categories:
   - Blockchain
   - NFT
+  - Cryptocurrency
 toc: true
 comments: true
 beforetoc: "What is an NFT? Perhaps you've seen NFTs on social media or in
