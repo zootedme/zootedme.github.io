@@ -21,9 +21,9 @@ Here are the Top 6 Best NFT Games To Earn Money and [cryptocurrency](https://www
 
 ![Top 6 Best NFT Games To Earn Money - Gods Unchained](/assets/images/gods-unchained.jpg)
 
-Another blockchain game that allows players to earn cryptocurrency. This Ethereum-based game allows aficionados of the fabled game to acquire digital cards and battle other players.
+A blockchain game that allows players to earn cryptocurrency. This Ethereum-based game allows aficionados of the fabled game to acquire digital cards and battle other players.
 
-A total of $2.4 million was raised from a number of investors. This includes Coinbase Ventures, which received money in its first round in 2018. By the end of 2019, the game had produced almost $4 million in revenue from the sale of four million collecting cards. Try [Gods Unchained](https://godsunchained.com/)
+A total of $2.4 million was raised from a number of investors. This includes Coinbase Ventures, which received the money in its first round in 2018. By the end of 2019, the game had produced almost $4 million in revenue from the sale of four million collecting cards. Try [Gods Unchained](https://godsunchained.com/)
 
 <br/><br/>
 
