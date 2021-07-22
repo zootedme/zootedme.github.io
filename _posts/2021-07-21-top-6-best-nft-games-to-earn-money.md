@@ -17,13 +17,13 @@ Here are the Top 6 Best NFT Games To Earn Money and [cryptocurrency](https://www
 
 <br/><br/>
 
-### **[Gods Unchained](https://godsunchained.com/)**
+### **Gods Unchained**
 
 ![Top 6 Best NFT Games To Earn Money - Gods Unchained](/assets/images/gods-unchained.jpg)
 
 Another blockchain game that allows players to earn cryptocurrency. This Ethereum-based game allows aficionados of the fabled game to acquire digital cards and battle other players.
 
-A total of $2.4 million was raised from a number of investors. This includes Coinbase Ventures, which received money in its first round in 2018. By the end of 2019, the game had produced almost $4 million in revenue from the sale of four million collecting cards.
+A total of $2.4 million was raised from a number of investors. This includes Coinbase Ventures, which received money in its first round in 2018. By the end of 2019, the game had produced almost $4 million in revenue from the sale of four million collecting cards. Try [Gods Unchained](https://godsunchained.com/)
 
 <br/><br/>
 
@@ -35,11 +35,11 @@ For true Formula 1 lovers, this Ethereum-based NFT game is for you. Different ca
 
 <br/><br/>
 
-### **[Evolution Land](https://www.evolution.land/)**
+### **Evolution Land**
 
 ![Top 6 Best NFT Games To Earn Money - Evolution Land](/assets/images/evolution.land.jpg)
 
-This virtual simulation game takes place on a planet with 26 continents, and players must employ gold, land, fire, wood, and silicon to survive. There are PVP possibilities, and developers have created two continents: Atlantis, which is based on Ethereum, and Byzantine, which is based on Tron.
+This virtual simulation game takes place on a planet with 26 continents, and players must employ gold, land, fire, wood, and silicon to survive. There are PVP possibilities, and developers have created two continents: Atlantis, which is based on Ethereum, and Byzantine, which is based on Tron. Try [Evolution Land](https://www.evolution.land/)
 
 <br/><br/>
 
@@ -47,31 +47,31 @@ This virtual simulation game takes place on a planet with 26 continents, and pla
 
 <br/><br/>
 
-### **[Axie Infinity](https://axieinfinity.com/)**
+### **Axie Infinity**
 
 ![Top 6 Best NFT Games To Earn Money - Axie Infinity](/assets/images/axie-infinity.png)
 
-As a non-fungible token game that rewards its players with cryptocurrency and requires cryptocurrency to play, Axie Infinity has boosted the appeal of NFT games to unprecedented heights. Players may kill time and have fun while earning and trading cryptocurrency in-game.
+As a non-fungible token game that rewards its players with cryptocurrency and requires cryptocurrency to play, Axie Infinity has boosted the appeal of NFT games to unprecedented heights. Players may kill time and have fun while earning and trading cryptocurrency in-game. Try [Axie Infinity](https://axieinfinity.com/)
 
 <br/><br/>
 
-### **[CryptoKitties](https://www.cryptokitties.co/)**
+### **CryptoKitties**
 
 ![Top 6 Best NFT Games To Earn Money - CryptoKitties](/assets/images/cryptokitties.jpeg)
 
 One of the first [blockchain](https://www.internetdailydeals.com/category/blockchain/) games was created with this in mind. On the Ethereum blockchain, the game allows users to breed and collect virtual cats. For those who wish to compare this to Axie Infinity, CryptoKitties remains incredibly popular, with daily sales above $30,000, [according to NonFungible data](https://nonfungible.com/market/history/cryptokitties?filter=saleType%3D&length=10&sort=blockTimestamp%3Ddesc&start=0).
 
-Players can go to the KittyVerse when they've completed their collections to participate in catfights, solve riddles, and more! This Ethereum-based game was released in November 2017 by Dapper Labs.
+Players can go to the KittyVerse when they've completed their collections to participate in catfights, solve riddles, and more! This Ethereum-based game was released in November 2017 by Dapper Labs. Try [CryptoKitties](https://www.cryptokitties.co/)
 
 <br/><br/>
 
-### **[Sorare](https://sorare.com/)**
+### **Sorare**
 
 ![Top 6 Best NFT Games To Earn Money - Sorare](/assets/images/sorare.jpeg)
 
 If you can't [make money online](https://www.internetdailydeals.com/make-money-online/) from fantasy football, why bother? Players can switch to Sorare to play fantasy football games and compete for rewards by defeating other managers. Like genuine fantasy football, the game is played using digital playing cards called [NFTs](https://www.internetdailydeals.com/what-is-an-nft-and-how-does-it-work/).
 
-The cards are also legally licensed, and they do represent real-life football players for a specific season. The cards are also available in three separate rarity levels: unique, ultra-rare, and plain rare.
+The cards are also legally licensed, and they do represent real-life football players for a specific season. The cards are also available in three separate rarity levels: unique, ultra-rare, and plain rare. Try [Sorare](https://sorare.com/)
 
 <br/><br/>
 
