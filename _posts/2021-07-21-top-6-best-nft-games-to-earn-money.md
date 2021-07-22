@@ -27,11 +27,11 @@ A total of $2.4 million was raised from a number of investors. This includes Coi
 
 <br/><br/>
 
-### **[F1 Delta Time](https://www.f1deltatime.com/)**
+### **F1 Delta Time**
 
 ![Top 6 Best NFT Games To Earn Money - F1 Delta Time](/assets/images/f1-delta-time.png)
 
-For true Formula 1 lovers, this Ethereum-based NFT game is for you. Different cars, drivers, and other in-game NFTs will be available for players to collect. The ERC-20 token serves as the game's in-game currency.
+For true Formula 1 lovers, this Ethereum-based NFT game is for you. Different cars, drivers, and other in-game NFTs will be available for players to collect. The ERC-20 token serves as the game's in-game currency. Try [F1 Delta Time](https://www.f1deltatime.com/)
 
 <br/><br/>
 
