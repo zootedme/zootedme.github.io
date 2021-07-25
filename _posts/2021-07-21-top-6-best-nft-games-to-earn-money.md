@@ -51,7 +51,7 @@ This virtual simulation game takes place on a planet with 26 continents, and pla
 
 ![Top 6 Best NFT Games To Earn Money - Axie Infinity](/assets/images/axie-infinity.png)
 
-As a non-fungible token game that rewards its players with cryptocurrency and requires cryptocurrency to play, Axie Infinity has boosted the appeal of NFT games to unprecedented heights. Players may kill time and have fun while earning and trading cryptocurrency in-game. Try [Axie Infinity](https://axieinfinity.com/)
+As a non-fungible token game that pays out in cryptocurrency and requires cryptocurrency to participate, it's a no-brainer.  Axie Infinity has boosted the appeal of NFT games to unprecedented heights. Players may kill time and have fun while earning and trading cryptocurrency in-game. Try [Axie Infinity](https://axieinfinity.com/)
 
 <br/><br/>
 
