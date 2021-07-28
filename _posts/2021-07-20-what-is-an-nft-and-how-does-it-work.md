@@ -27,7 +27,7 @@ If you're still interested in buying NFTs, you can do it with cash or Ethereum, 
 
 ### **How does NFT actually work?**
 
-If you want to buy NFTs, you'll need to lock and load your crypto wallet, which you can link to and track through an app. As a result of the growing buzz, there are now "drops" that not only increase anticipation but also make bidding a fun experience for everyone interested and ready players.
+You'll need to lock and fill your crypto wallet, which you can attach to and track using an app, if you wish to buy NFTs. As a result of the developing buzz, there are now "drops" that not only heighten anticipation but also make bidding a pleasurable experience for all interested and prepared participants.
 
 ### **What is the best way for me to make my own NFT?**
 
