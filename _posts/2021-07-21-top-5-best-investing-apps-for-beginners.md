@@ -11,7 +11,7 @@ comments: true
 beforetoc: Best Investing Apps for Beginners, Investing is one strategy to
   diversify your income and expand your wealth when it comes to taking charge of
   your financial destiny.
-author: Jeff
+author: killcreek
 ---
 Best Investing Apps for Beginners, Investing is one strategy to diversify your income and expand your wealth when it comes to taking charge of your financial destiny. If you're new to investing, though, determining the best approach to get started can be difficult. Investing is becoming more accessible to the general public thanks to technological advancements, and almost anyone can get started using a mobile app. Here's a list of the top 5 beginner investing apps to help you diversify your portfolio and learn as you go.
 

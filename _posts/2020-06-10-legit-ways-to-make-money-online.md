@@ -9,7 +9,7 @@ toc: true
 beforetoc: Legit Ways to Increase Your Income While Working from Home! In the event
   that you've lost a significant source of income and are battling to get by during
   this troublesome time, there is an assortment of online platforms to go to.
-author: Jeff
+author: killcreek
 date: '2020-06-10 06:14:00 +0000'
 comments: true
 ---

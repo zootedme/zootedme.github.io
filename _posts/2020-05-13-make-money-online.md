@@ -10,7 +10,7 @@ categories:
 toc: true
 beforetoc: Making money online or successfully running an online business is the dream
   of every internet entrepreneur. But this dream is not so easily achievable
-author: Jeff
+author: killcreek
 date: '2020-05-13 07:01:00 +0000'
 comments: true
 ---

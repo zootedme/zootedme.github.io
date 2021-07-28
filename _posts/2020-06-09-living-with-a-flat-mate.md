@@ -10,7 +10,7 @@ toc: true
 beforetoc: Living with a flatmate has a lot of advantages, similar to the capacity
   to lease a bigger space and setting aside cash. Notwithstanding, it comes with a
   considerable amount of issues you need to manage.
-author: Jeff
+author: killcreek
 comments: true
 ---
 

@@ -11,7 +11,7 @@ comments: true
 beforetoc: Here are the Top 6 Best NFT Games To Earn Money and cryptocurrency?
   Players can do precisely that in the top six NFT games. Imagine a game where
   the prizes are crypto that can be swapped for more stuff or cash
-author: Jeff
+author: killcreek
 ---
 Here are the Top 6 Best NFT Games To Earn Money and [cryptocurrency](https://www.internetdailydeals.com/category/cryptocurrency/)? Players can do precisely that in the top six NFT games. Imagine a game where the prizes are crypto that can be swapped for more stuff or cash. It's worth delving into the world of NFT now that the price of [$HEX](https://coinmarketcap.com/currencies/hex/) is rising while the price of other cryptocurrencies stays low.
 

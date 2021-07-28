@@ -12,7 +12,7 @@ beforetoc: Best Job Search Sites to Help Find Your Next Dream Job. CareerBuilder
   advice and resources to job seekers. CareerBuilder secures job listings directly
   from employers and has expanded local listings by partnering with many newspapers
   to incorporate their online classifieds.
-author: Jeff
+author: killcreek
 comments: true
 ---
 

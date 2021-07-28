@@ -9,7 +9,7 @@ toc: true
 beforetoc: Basically, Fiverr.com  is a web platform for trading or exchanging services
   in digital media. I purchase and you deliver whatever can be given digitally, actually
   whatever.
-author: Jeff
+author: killcreek
 date: '2020-06-28 05:49:00 +0000'
 comments: true
 ---

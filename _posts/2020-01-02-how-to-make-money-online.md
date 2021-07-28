@@ -13,7 +13,7 @@ beforetoc: The idea of making money online seemed like a novel concept for just
   a few years. Working from wherever you want, whenever you want, being your own
   boss, and having supreme flexibility sounded great. But it just wasn’t
   realistic for most people.
-author: Jeff
+author: killcreek
 ---
 The idea of making money online seemed like a novel concept for just a few years. Working from wherever you want, whenever you want, being your own boss, and having supreme flexibility sounded great. But it just wasn’t realistic for most people.
 

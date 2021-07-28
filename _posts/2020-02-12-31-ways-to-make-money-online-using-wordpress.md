@@ -14,7 +14,7 @@ beforetoc: Everyone wants and it never seems enough. What is it? Money. In
   today’s materialistic world money has value like none other and that is
   perhaps the reason you have chosen to make money online. There is no dearth of
   information on how to make money online but most of it isn’t legit.
-author: Jeff
+author: killcreek
 date: 2020-02-12 07:17:00 +0000
 ---
 Everyone wants and it never seems enough. What is it? Money. In today’s materialistic world money has value like none other and that is perhaps the reason you have chosen to make money online. There is no dearth of information on how to make money online but most of it isn’t legit.

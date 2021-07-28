@@ -11,7 +11,7 @@ categories:
 toc: true
 beforetoc: Whether you work full-time or stay at home to care for your children
   you may be seeking a legitimate side hustle to increase your family's income
-author: Jeff
+author: killcreek
 ---
 Whether you work full-time or stay at home to care for your children you may be seeking a legitimate side hustle to increase your family's income. Make the most of your free time by pursuing a side hustle to supplement your income. Take a look at these side hustles for moms to see which one is right for you and your schedule!
 

@@ -33,7 +33,7 @@ Don’t send us press releases or sales pitches. We are most likely going to ign
 
 – I supported with real facts, convincing arguments with fewer opinions (fact-check and cite sources if needed).
 
-Email your topic suggestions first to **Jeff** ([press@internetdailydeals.com](mailto:press@internetdailydeals.com)) – he’ll tell you which one to go for!
+Email your topic suggestions first to **killcreek** ([press@internetdailydeals.com](mailto:press@internetdailydeals.com)) – he’ll tell you which one to go for!
 
 ### Articles We Publish
 

@@ -10,7 +10,7 @@ toc: true
 beforetoc: "You may have reached the end of your job and decided to retire.
   Alternatively, you may be ready to start a new business in addition to your
   existing work. Continue reading for simple ways to make money  "
-author: Jeff
+author: killcreek
 ---
 You may have reached the end of your job and decided to retire. Alternatively, you may be ready to start a new business in addition to your existing work. Continue reading for simple ways to [make money](https://www.internetdailydeals.com/categories#Make-Money) while also teaching others what you've learned.
 
