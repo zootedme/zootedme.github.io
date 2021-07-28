@@ -12,7 +12,7 @@ beforetoc: Everyone is buzzing about Axie Infinity, but what exactly is it and
   how does it work? Since May, many cryptocurrencies have witnessed major price
   declines. But it seems like there's an exception every few of weeks. Some
   lesser-known cryptocurrency will make waves thanks to a big price increase.
-author: Jeff
+author: killcreek
 ---
 Everyone is buzzing about Axie Infinity, but what exactly is it and how does it work? Since May, many cryptocurrencies have witnessed major price declines. But it seems like there's an exception every few weeks. Some lesser-known cryptocurrencies will make waves thanks to a big price increase.
 
