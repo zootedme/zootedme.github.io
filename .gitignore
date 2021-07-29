@@ -7,3 +7,4 @@ site
 .jekyll-cache
 docker-compose.yml
 admin
+node_modules
