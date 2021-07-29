@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Mid-Range Phone You Can Buy Right Now
+title: Best Mid-Range Phones You Can Buy Right Now
 image: /assets/images/best-midrange-phones.jpg
 categories:
   - Gadgets
