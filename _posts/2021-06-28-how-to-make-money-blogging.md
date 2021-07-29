@@ -13,11 +13,9 @@ beforetoc: There are lots of ways to monetize your blog once you have a good
   readers, so it’s important to make the most of each one.
 author: killcreek
 ---
-
 ### **Building Your Readership**
 
-
-There are lots of ways to monetize your blog once you have a good number of visitors. But when you are just starting out you won’t have many readers, so it’s important to make the most of each one.
+How to Make Money Blogging? There are lots of ways to monetize your blog once you have a good number of visitors. But when you are just starting out you won’t have many readers, so it’s important to make the most of each one.
 
 That means that you need to make sure first-time readers of your blog will come back. Only by having returning readers will you ever build a sizable audience that you can profit from.
 
@@ -33,9 +31,7 @@ Every time you send an email to your list you can offer them products/services o
 
 You will need an email marketing service to get started.
 
-
 ### **Monetizing Your Blog**
-
 
 Once you have built a decent readership base you can turn your attention to making money from your blog. There a variety of ways to do this, but one of the most lucrative ways also happens to be the easiest- advertising.
 
@@ -49,30 +45,21 @@ Every time one of your visitors clicks on an ad, you get paid. Google collects t
 
 This arrangement is nice not only because it is hands-off, but because you are dealing with a reputable company that you know will actually pay you on time.
 
-
-
-
 ### **How much can you make?**
-
 
 The amount that you can make from **AdSense**   depends on three factors:
 
 **1. The number of visitors to your blog**
 
-
 This one is pretty obvious. More people visiting your blog means more clicks on advertisements, which means more money for you.
 
-
 **2. The visibility of the ads**
-
 
 When you put the AdSense code on your blog you have a choice of the style of advertisements (large images, small images, text, etc.) and also where they are placed. The more prominently the ads are displayed the more likely they are to be clicked.
 
 However, you have to balance placing the ads prominently with the prospect of possibly annoying your readers. We have all visited blogs where it’s difficult to see the content due to the number and size of the ads. This is a delicate balance to achieve and it’s something you will have to experiment with to get the most out of your blog.
 
-
 **3. The topic you are blogging about**
-
 
 The final factor that affects your AdSense income is the topic you are blogging about. This is because advertisers will pay more to be on certain blogs than they will for others.
 
@@ -84,8 +71,6 @@ These three factors will determine the amount of money you make. Estimating exac
 
 Keep in mind that making money from your blog takes time. After all, there is a reason that learning how to make money from a blog is the last step in my guide. You need to make sure you have followed all the previous steps perfectly in order to give yourself the best chance of earning a substantial income from blogging. This will not happen overnight, but most bloggers find that the work itself is rewarding enough to continue on the journey
 
-
 ### **What next?**
-
 
 Learning how to make money with a blog is the final step in my tutorial on how to start a blog. I hope that you not only read this complete guide but also took action on it. Blogging is a long, on-going journey, but only by taking the first step will you ever get to see where this road can take you.
