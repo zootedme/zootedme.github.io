@@ -1,7 +1,0 @@
-[[plugins]]
-package = "netlify-plugin-lazy-load-images"
-   [plugins.inputs]
-      excludeFiles = []
-      applyContainer = "body"
-      excludeElements = '[data-src], .lazy-load'
-      replaceThreshold = 0
