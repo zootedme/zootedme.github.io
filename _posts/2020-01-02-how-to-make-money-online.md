@@ -21,7 +21,7 @@ But things have changed. There are now more options than ever, making the Intern
 
 In fact, [56.7 million Americans](https://s3.us-west-1.amazonaws.com/adquiro-content-prod/documents/FIA_full-infographic.pdf) freelanced in 2018 — up 3.7 million from 2014.
 
-For this post, I’m going to take a deep dive into 12 different strategies that fit people of all different interest levels and skillsets. I’ll discuss the specifics on how each method works, how to get started, and provide helpful resources.
+For this post, I’m going to take a deep dive into 12 different strategies that fit people of all different interest levels and skill sets. I’ll discuss the specifics on how each method works, how to get started and provide helpful resources.
 
 Now let’s get right down to it. Here’s how to make money online.
 
