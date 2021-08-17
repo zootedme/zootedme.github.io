@@ -15,11 +15,9 @@ author: Jeff
 ---
 It doesn't have to be difficult to earn some extra cash. There are numerous ways to make money available. You'll be astonished at what you can accomplish if you devote an hour or two a day to something you care about instead of watching Netflix or scrolling through Instagram.
 
-Remember that if you want to make $100 or more per day online (or offline), you may simply combine a few of these money-making strategies. And the money will quickly build up!
+Remember that if you want to make $100 or[ make money online](https://www.internetdailydeals.com/how-to-make-money-online/) (or offline), you may simply combine a few of these money-making strategies. And the money will quickly build up!
 
 <br/><br/>
-
-
 
 ### **Sell Your Photos**
 
@@ -34,8 +32,6 @@ Best websites to sell your photos online:
 * [Adobe Stock](https://stock.adobe.com/)
 
 <br/><br/>
-
-
 
 ### **Sell your Handmade Items**
 
@@ -57,11 +53,7 @@ This revolution can also benefit you if you are passionate about sharing your kn
 
 You also don't have to be a teacher with a standard credential. You just must enjoy working with children under the age of eighteen. [Outschool](https://outschool.com/), for example, allows you to teach any topic from the comfort of your own home.
 
-
-
 ![Ways to Make $100 A Day](/assets/images/ways-to-make-100-dollars-a-day.webp)
-
-
 
 You can teach traditional topics such as English and math, as well as fun classes such as acting, singing, and sketching. It's free to list classes, and **Outschool** will give you the tools you need to hold online lessons.
 
@@ -121,10 +113,6 @@ You set your own schedule and order what you want, and the flexibility is what m
 <br/><br/>
 
 ### **Make Money by Watching Videos**
-
-
-
-
 
 <br/><br/>
 
