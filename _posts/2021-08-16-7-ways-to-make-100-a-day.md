@@ -11,7 +11,7 @@ comments: true
 beforetoc: Remember that if you want to make $100 or more per day online (or
   offline), you may simply combine a few of these money-making strategies. And
   the money will quickly build up!
-author: Jeff
+author: killcreek
 ---
 It doesn't have to be difficult to earn some extra cash. There are numerous ways to make money available. You'll be astonished at what you can accomplish if you devote an hour or two a day to something you care about instead of watching Netflix or scrolling through Instagram.
 
