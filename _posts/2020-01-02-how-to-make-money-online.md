@@ -140,9 +140,15 @@ I also find [Indeed](https://www.indeed.com/) to be an amazing resource. Just se
 
 ![12 Legitimate Strategies to Make Money Online](/assets/images/Screen-Shot-2019-03-27-at-2.22.19-PM.png)
 
+<br/><br/>
+
+>  **Also Read: [7 Ways to Make $100 A Day](https://www.internetdailydeals.com/7-ways-to-make-100-a-day/)**
+  
+<br/><br/>
+
 ## 4. Teach English Online
 
-About [20 percent](https://www.babbel.com/en/magazine/how-many-people-speak-english-and-where-is-it-spoken/) of the world’s population speaks English. And many more are looking to learn. Countries like China, South Korea and The Philippines in particular are looking to teach their students this language from a young age.
+About [20 percent](https://www.babbel.com/en/magazine/how-many-people-speak-english-and-where-is-it-spoken/) of the world’s population speaks English. And many more are looking to learn. Countries like China, South Korea, and The Philippines in particular are looking to teach their students this language from a young age.
 
 So there’s a good demand for English language instructors online.
 
