@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Make Money by Doing Nothing?
+title: How to Make Money Quickly and Easily?
 image: /assets/images/how-to-make-money-by-doing-nothing.jpg
 categories:
   - make money online
