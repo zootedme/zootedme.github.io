@@ -150,3 +150,5 @@ Making your first investment today can help you start earning money early, allow
 It isn't for everyone to have a passive income. Getting started can be a difficult task. The following are some of the disadvantages of passive income.
 
 Are you willing to get paid for doing nothing? Please let me know in the comments section below. I'd be delighted to hear from you.
+
+<br/><br/>
