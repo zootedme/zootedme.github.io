@@ -13,7 +13,7 @@ beforetoc: How to Make Money by Doing Nothing? Many individuals desire to be
   wealthy, but they despise the thought of working hard. Thankfully, not all
   moneymaking endeavors necessitate 40-hour workweeks in order to achieve
   financial freedom.
-author: jeff
+author: iamthenewking
 ---
 Many individuals desire to be wealthy, but they despise the thought of working hard. Thankfully, not all moneymaking endeavors necessitate 40-hour workweeks in order to achieve financial freedom.
 
