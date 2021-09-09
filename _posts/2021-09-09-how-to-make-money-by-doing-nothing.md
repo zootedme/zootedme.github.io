@@ -141,6 +141,8 @@ You are not obligated to take that path. You can sell both new and old items. Th
 
 ### **Final Thoughts on How to Make Money by Doing Nothing**
 
+<br/><br/>
+
 One of the most financially mature decisions you can make as an adult is to decide to expand your money. After all, the stress of constantly being on the brink can be physically and emotionally exhausting.
 
 Making your first investment today can help you start earning money early, allowing you to retire and enjoy life sooner.
