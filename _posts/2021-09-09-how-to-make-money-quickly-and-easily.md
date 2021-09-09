@@ -133,7 +133,7 @@ You are not obligated to take that path. You can sell both new and old items. Th
 
 <br/><br/><br/><br/>
 
-### **Final Thoughts on How to** Make Money Quickly and Easily
+### **Thoughts on How to** Make Money Quickly and Easily
 
 <br/><br/>
 
