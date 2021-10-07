@@ -10,7 +10,7 @@ categories:
 toc: true
 comments: true
 beforetoc: You don't have to spend your days betting on which specific firms'
-  stocks will rise or fall in the short term if you want to [earn money](<>) in
+  stocks will rise or fall in the short term if you want to earn money in
   stocks. Even the most successful investors, such as Warren Buffett
 author: killcreek
 ---
