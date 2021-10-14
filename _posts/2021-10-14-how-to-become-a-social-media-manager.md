@@ -143,3 +143,5 @@ Earnings will vary, so if you're wondering how much do social media managers mak
 <br/><br/>
 
 [![Social Media Manager](/assets/images/button_apply-now-3-.png)](https://www.phcareer.com/US/+/Social-media-manager)
+
+<br/><br/>
