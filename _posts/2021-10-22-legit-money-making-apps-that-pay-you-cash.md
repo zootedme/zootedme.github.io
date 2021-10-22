@@ -15,7 +15,7 @@ author: killcreek
 ---
 Apps give a plethora of options for people wishing to [make money quick](https://www.internetdailydeals.com/how-to-make-money-quickly-and-easily/) and in a convenient manner. Take surveys, pick up side employment, sell your unwanted items, and more with your smartphone.
 
-Here's all you need to know about the Legit Money Making Apps That Pay You Cash. Both Google Play and the iOS App Store have at least four stars and 25,000 reviews for this app.
+Here's all you need to know about the Legit Money Making Apps That Pay You Cash. Both Google Play and the iOS App Store have at least four stars and 25,000 reviews for this apps.
 
 <br/><br/>
 
@@ -27,9 +27,9 @@ Swagbucks is a cash-back and rewards program that operates in a similar way to A
 
 Payment can be made with a gift card or using PayPal.
 
-Cons: It pays very little; one SB is worth around a penny. With many chores being worth pennies, it might take a long time and effort to generate a significant sum of money. Furthermore, you will not be eligible for every survey or activity. Users frequently claim to be thrown out of surveys when they are in the middle of them. According to Swagbucks, this might be due to demographics or dishonest or inconsistent responses.
+**Cons:** It pays very little; one SB is worth around a penny. With many chores being worth pennies, it might take a long time and effort to generate a significant sum of money. Furthermore, you will not be eligible for every survey or activity. Users frequently claim to be thrown out of surveys when they are in the middle of them. According to Swagbucks, this might be due to demographics or dishonest or inconsistent responses.
 
-Pros: Swagbucks provides a variety of simple ways to earn rewards, and there is no time limit on when you can cash out. After redemption, payments are normally received within 10 business days. When you join, you can also earn a $10 incentive if you make a qualifying $25 purchase.
+**Pros:** Swagbucks provides a variety of simple ways to earn rewards, and there is no time limit on when you can cash out. After redemption, payments are normally received within 10 business days. When you join, you can also earn a $10 incentive if you make a qualifying $25 purchase.
 
 <br/><br/>
 
