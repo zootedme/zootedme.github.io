@@ -33,7 +33,7 @@ Pros: Swagbucks provides a variety of simple ways to earn rewards, and there is 
 
 <br/><br/>
 
-![Legit Money Making Apps That Pay You Cash - Swagbucks](/assets/images/swagbucks.png)
+[![Legit Money Making Apps That Pay You Cash - Swagbucks](/assets/images/swagbucks.png)](https://www.swagbucks.com/refer/iddeals)
 
 
 
@@ -57,7 +57,7 @@ Payment options include PayPal, direct bank transfer, or credit to a Fiverr Reve
 
 <br/><br/>
 
-![Legit Money Making Apps That Pay You Cash - Fiverr](/assets/images/fiverr.png)
+[![Legit Money Making Apps That Pay You Cash - Fiverr](/assets/images/fiverr.png)](https://track.fiverr.com/visit/?bta=116041&nci=7416 )
 
 <br/><br/>
 
