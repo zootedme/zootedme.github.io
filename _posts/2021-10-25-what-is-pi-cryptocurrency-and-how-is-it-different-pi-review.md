@@ -62,8 +62,6 @@ This is in sharp contrast to Bitcoin mining, which necessitates specialized equi
 
 ![Bitcoin Energy Use - What Is Pi Cryptocurrency and How Is It Different?](/assets/images/bitcoin-data-usage.png "Something is wrong when the resource utilized to mine Bitcoin is compared to the whole consumption of countries like Venezuela or Denmark.")
 
-
-
 <br/><br/>
 
 The second claim, that it will be utilized as a currency by regular people to capture more economic value, is far from reality.
@@ -92,8 +90,6 @@ So now we're in Phase 2, which is primarily a testing phase in which individuals
 
 ![What Is Pi Cryptocurrency and How Is It Different?- Phase 2 objectives for the Pi Network](/assets/images/pi-goals.png "Phase 2 of Pi's objectives - courtesy of the Pi Network")
 
-
-
 <br/><br/>
 
 Pi's transition to stage 3 is thus not set in stone and is dependent on his or her progress in phase 2.
@@ -115,9 +111,6 @@ Pi's crew will have to grow quickly if it is to become mainstream and handle hun
 <br/><br/>
 
 ![What Is Pi Cryptocurrency and How Is It Different? - Creators of the Pi Network](/assets/images/pi-founders.png "Pi's three founders - image courtesy of the Pi Network")
-
-
-
 
 <br/><br/>
 
@@ -209,9 +202,7 @@ While Pi is still in its infancy, it is developing at a rate that cannot be igno
 
 Apart from some squandered time, you stand to lose very little. Of course, it may not amount to much, but if it meets its objectives, it will be rather impressive. And in that case, getting there early could pay out nicely!
 
-Leave your thoughts in the comments section below. However, if your comment consists solely of a joining code and adds nothing else to the discussion, it may not be approved.
-
-
+Leave your thoughts in the comments section below.  
 
 <br/><br/>
 
