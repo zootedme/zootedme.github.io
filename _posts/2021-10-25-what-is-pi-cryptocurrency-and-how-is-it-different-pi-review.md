@@ -157,15 +157,15 @@ When they switched to Phase 2 in March 2020, just one year after opening, there 
 
 In many respects, I prefer the founders' modest, low-key appearance — it's far more trustworthy than if they were posing with models on boats. These guys are willing to put their names and reputations on the line for this software, which adds to its legitimacy.
 
-At the end of the day, when it comes to [cryptocurrencies](https://www.internetdailydeals.com/category/cryptocurrency/), there are no guarantees. And their proposition doesn't promise that; all it does is invite you on board and see what happens.
+At the end of the day, when it comes to [cryptocurrencies](https://www.internetdailydeals.com/category/cryptocurrency/), there are no guarantees. And their proposition doesn't promise that; all it does is invite you onboard and see what happens.
 
 When you consider that all you have to do is download an app and open it once a day, it seems like a good deal, especially when you consider what this may become.
 
 <br/><br/>
 
-> **Update:** The Pi platform began advertising advertisements in May 2020. This is a vital step, according to the developers, in order to support the various costs and make it self-sustaining. The advertisements appear to be quite unobtrusive, and I'ts fine being there if it helps them support the development of the platform into something useful.
+> **Update:** The Pi platform began advertising advertisements in May 2020. This is a vital step, according to the developers, in order to support the various costs and make it self-sustaining. The advertisements appear to be quite unobtrusive, and it helps them support the development of the platform into something useful.
 >
-> Update #2: The Pi network launched its first trial digital wallet in April 2021, which was a huge milestone. This demonstrated how the platform is evolving and is an exciting step forward on the long road to Pi being a real, useable money. Is it possible that we're getting closer to something?
+> Update #2: The Pi network launched its first trial digital wallet in April 2021, which was a huge milestone. This demonstrated how the platform is evolving and is an exciting step forward on the long road to Pi being real, useable money. Is it possible that we're getting closer to something?
 
 <br/><br/>
 
@@ -207,7 +207,7 @@ It's worth noting, though, that you only earn from your direct network; you don'
 
 While Pi is still in its infancy, it is developing at a rate that cannot be ignored. It's free and simple to start earning it, so we decided to give it a shot.
 
-Apart from some squandered time, you stand to lose very little. Of course, it may not amount to much, but if it meets its objectives, it will be rather impressive. And in that case, getting there early could pay out handsomely!
+Apart from some squandered time, you stand to lose very little. Of course, it may not amount to much, but if it meets its objectives, it will be rather impressive. And in that case, getting there early could pay out nicely!
 
 Leave your thoughts in the comments section below. However, if your comment consists solely of a joining code and adds nothing else to the discussion, it may not be approved.
 
