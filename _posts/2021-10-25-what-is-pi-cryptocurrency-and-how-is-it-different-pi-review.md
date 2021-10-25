@@ -37,7 +37,7 @@ Some of you have come here deliberately looking for a code to join. You can use 
 
 Pi is a new cryptocurrency for and by common people that you can mine (or earn) using your phone," according to the team behind it. It appears to be straightforward.
 
-<iframe width="634" height="360" src="https://www.youtube.com/embed/MsOaC61cR3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="375" height="360" src="https://www.youtube.com/embed/MsOaC61cR3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br/><br/>
 
