@@ -143,7 +143,7 @@ Payment can be made by PayPal or by cheque.
 
 <br/><br/>
 
-**Related: [Top 5 Mobile Apps to Earn Real Cash](https://www.internetdailydeals.com/top-5-mobile-apps-to-earn-real-cash/)**
+> **Related: [Top 5 Mobile Apps to Earn Real Cash](https://www.internetdailydeals.com/top-5-mobile-apps-to-earn-real-cash/)**
 
 <br/><br/>
 
