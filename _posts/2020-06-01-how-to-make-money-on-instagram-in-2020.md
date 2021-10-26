@@ -121,7 +121,7 @@ Perfect examples include:
 * Personal training
 * Life coaching
 * Business consultation
-* Website design
+* [Website design](https://webdevpl.us/)
 
 These are services that you can sell on a large scale, and that you can charge a lot of money for, thereby making it very much worth your while.
 
@@ -154,6 +154,10 @@ Likewise, you can also mention this in the content itself – by telling people 
 With this setup, you’ll have a way to generate cash from people who don’t want to go to the trouble of messaging you to talk. This is a great way to generate passive income while you sleep.
 
 What’s more, is that a digital product like this can act as the entry point in a sales funnel. In other words, this is a smaller purchase that you can then use to drive bigger sales. If you have a $20 ebook, then you can use that to recommend your $1,000-per-hour training service. If your audience enjoyed the ebook, they will be far more likely to trust you enough to pay for your premium services.
+
+<br/><br/>
+
+> **Related: [How to Become a Social Media Manager?](https://www.internetdailydeals.com/how-to-become-a-social-media-manager/)**
 
 <br/><br/>
 
