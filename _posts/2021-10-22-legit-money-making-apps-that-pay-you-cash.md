@@ -129,7 +129,7 @@ Payment options include a check or a direct payment into a bank account.
 
 <br/><br/>
 
-[Rakuten](https://www.rakuten.com/) gives customers up to 40% cashback on purchases made at well-known stores, restaurants, and food delivery services. Cashback can also be earned on travel, gift cards, and other purchases. It's easy to understand: **Create an account**, then go to the app and tap on the offer you want, then complete the purchase through the portal. You may also earn cashback in-store by linking a credit or debit card to your Rakuten account, as long as you activate the deal through the app first. After Rakuten confirms the purchase with the shop, which might take anywhere from a few hours to several days, the money is credited to your account.
+[Rakuten](https://www.rakuten.com/) gives customers up to 40% cash back on purchases made at well-known stores, restaurants, and food delivery services. Cashback can also be earned on travel, gift cards, and other purchases. It's easy to understand: **Create an account**, then go to the app and tap on the offer you want, then complete the purchase through the portal. You may also earn cashback in-store by linking a credit or debit card to your Rakuten account, as long as you activate the deal through the app first. After Rakuten confirms the purchase with the shop, which might take anywhere from a few hours to several days, the money is credited to your account.
 
 Payment can be made by PayPal or by cheque.
 
