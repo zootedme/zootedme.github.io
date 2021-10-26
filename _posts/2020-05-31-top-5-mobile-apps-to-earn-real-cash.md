@@ -45,7 +45,7 @@ Download Quiz Rewards for [ANDROID](https://play.google.com/store/apps/details?i
 
 <br/><br/>
 
-**Related: [Legit Money Making Apps That Pay You Cash](internetdailydeals.com/legit-money-making-apps-that-pay-you-cash/)**
+> **Related: [Legit Money Making Apps That Pay You Cash](internetdailydeals.com/legit-money-making-apps-that-pay-you-cash/)**
 
 <br/><br/>
 
@@ -88,9 +88,5 @@ It also has a trivia game to help you earn even more points by answering questio
 Each video played gives 5 points, watch enough videos or play trivia games and cash out a minimum of $0.5 via PayPal or as a gift card.
 
 Download AppTrailers for : [ANDROID](https://play.google.com/store/apps/details?id=com.appredeem.apptrailers&hl=en) / [IOS](https://itunes.apple.com/us/app/apptrailers/id469489347?mt=8)
-
-
-
-
 
 <br/><br/><br/>
