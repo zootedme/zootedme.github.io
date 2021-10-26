@@ -56,8 +56,8 @@ This is also why making a channel that simply collects the images from other peo
 <br/><br/>
 
 > **Related: *[How to Make Money Blogging](https://www.internetdailydeals.com/how-to-make-money-blogging/)***
->
-> <br/><br/>
+
+<br/><br/>
 
 ## **Creating a Brand**
 
