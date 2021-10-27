@@ -103,7 +103,7 @@ This can greatly assist you in gaining more clients.
 
 It's not difficult to find work as a virtual assistant. Virtual assistant jobs are available from a variety of companies, whether you're seeking a full-time or [freelance](https://www.internetdailydeals.com/category/freelance/) career.
 
-I've compiled a list of some of the greatest for you!
+ 
 
 <br/><br/>
 
