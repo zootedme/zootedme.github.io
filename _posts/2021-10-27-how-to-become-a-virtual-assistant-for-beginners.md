@@ -119,6 +119,6 @@ You'll obtain a few starting jobs if you put in some effort to establish a solid
 
 Search on popular job posting sites at once with just once search or browse jobs by category
 
-[![Social Media Manager](https://www.internetdailydeals.com/assets/images/button_apply-now-3-.png)](https://www.phcareer.com/US/+/Social-media-manager)
+[![Social Media Manager](https://www.internetdailydeals.com/assets/images/button_apply-now-3-.png)](https://www.phcareer.com/US/+/Virtual-assistant)
 
 <br/><br/>
