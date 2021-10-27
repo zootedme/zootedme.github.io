@@ -15,7 +15,7 @@ beforetoc: A virtual assistant (VA) is a person who works from a remote location
   sharing, and low-cost conference calling services.
 author: killcreek
 ---
-A virtual assistant (VA) is a person who works from a remote location to assist other businesses. Virtual assistants are in high demand by entrepreneurs and online firms who need support but don't want to hire full-time employees in a certain area, thanks to high-speed internet, document sharing, and low-cost conference calling services.
+A **virtual assistant (VA)** is a person who works from a remote location to assist other businesses. Virtual assistants are in high demand by entrepreneurs and online firms who need support but don't want to hire full-time employees in a certain area, thanks to high-speed internet, document sharing, and low-cost conference calling services.
 
 Having someone help them with their business remotely gives them greater flexibility, lowers fixed costs, and allows them to scale up and down as needed.
 
