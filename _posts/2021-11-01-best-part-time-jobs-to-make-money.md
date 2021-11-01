@@ -95,6 +95,10 @@ Personal chefs are a desirable alternative to having meals delivered, which is b
 
 <br/><br/>
 
+> **Also Read: [Make Money On Fiverr.Com : A Beginners Guide](https://www.internetdailydeals.com/make-money-on-fiverr-com-a-beginners-guide/)**
+
+<br/><br/>
+
 ### **Tutor**
 
 <br/><br/>
@@ -167,10 +171,6 @@ Even if it's just one or two appointments per week, you can fill your schedule w
 
 <br/><br/>
 
-> **Also Read: [Make Money On Fiverr.Com : A Beginners Guide](https://www.internetdailydeals.com/make-money-on-fiverr-com-a-beginners-guide/)**
-
-<br/><br/>
-
 ### **Content Writer**
 
 Creating useful content. As a freelance writer, the possibilities are endless if you are a skilled writer who enjoys conducting research.
@@ -183,13 +183,7 @@ Many content providers require a steady stream of postings to maintain their web
 
 <br/><br/>
 
-
-
 [![Create a website and a social media presence](https://www.internetdailydeals.com/assets/images/webdevplus-ads.jpg)](https://webdevpl.us/portfolio)
-
-
-
-
 
 <br/><br/><br/><br/>
 
