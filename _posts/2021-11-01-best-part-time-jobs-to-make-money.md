@@ -23,7 +23,7 @@ A part-time job is also an excellent way for entrepreneurs to begin their own bu
 
 <br/><br/>
 
-## **What Qualities Should You Look For In The Best Part-Time Jobs?**
+## **What Qualities Should You Look For In a Part-Time Jobs?**
 
 People who have money but not enough time frequently have the best part-time job prospects. They have jobs that are inflexible or demanding, so they want assistance with other tasks, and they can afford to pay for it.
 
