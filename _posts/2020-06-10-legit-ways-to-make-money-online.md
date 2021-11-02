@@ -45,7 +45,7 @@ On the off chance that you plan on the delivery of physical products to clients 
 
 <br/><br/>
 
-Related: [How to Make Money Blogging](https://www.internetdailydeals.com/how-to-make-money-blogging/)
+> **Related: [How to Make Money Blogging](https://www.internetdailydeals.com/how-to-make-money-blogging/)**
 
 <br/><br/>
 
