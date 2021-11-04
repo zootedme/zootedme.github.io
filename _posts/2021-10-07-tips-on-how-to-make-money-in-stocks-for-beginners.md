@@ -9,14 +9,14 @@ categories:
   - Trading
 toc: true
 comments: true
-beforetoc: You don't have to spend your days betting on which specific firms'
-  stocks will rise or fall in the short term if you want to earn money in
-  stocks. Even the most successful investors, such as Warren Buffett
+beforetoc: This raises the question of how to earn money from stocks. Actually,
+  it isn't difficult if you follow some tried-and-true procedures and exercise
+  patience.
 author: killcreek
 ---
 Stocks are one of the keys to developing long-term wealth. The problem with stocks is that, while they can grow in value enormously over time, their day-to-day movement is impossible to anticipate with 100% precision.
 
-Which raises the question of how to profit from stocks. Actually, it isn't difficult if you follow some tried-and-true procedures and exercise patience.
+This raises the question of how to earn money from stocks. Actually, it isn't difficult if you follow some tried-and-true procedures and exercise patience.
 
 <br/><br/>
 
