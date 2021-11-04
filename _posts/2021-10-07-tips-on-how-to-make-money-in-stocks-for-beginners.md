@@ -104,7 +104,7 @@ That means you'll need to stay involved for the long run if you want to take adv
 
 <br/>
 
-You don't have to spend your days betting on which specific firms' stocks will rise or fall in the short term if you want to [earn money](<>) in stocks. Even the most successful investors, such as Warren Buffett, advise individuals to put their money in low-cost index funds and keep them for years or decades until they need it.
+You don't have to spend your days betting on which specific firms' stocks will rise or fall in the short term if you want to [earn money](https://www.internetdailydeals.com/7-ways-to-make-100-a-day/) in stocks. Even the most successful investors, such as Warren Buffett, advise individuals to put their money in low-cost index funds and keep them for years or decades until they need it.
 
 Unfortunately, the tried-and-true approach to successful investing is a little boring. Instead of chasing the current hot company, have patience and trust that diversified investments, such as index funds, will pay off in the long run.
 
