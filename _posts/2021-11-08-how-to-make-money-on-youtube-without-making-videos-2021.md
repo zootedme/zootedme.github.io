@@ -88,6 +88,6 @@ So here are my final recommendations for optimizing your videos:
 
 <br/><br/>
 
-This strategy is also known as curation, and it works in the same way as an in-house medium publication. If you want to test the strategy, leave a remark on the channel you're going to create or your progress after a few months
+This strategy is also known as curation.  If you want to test the strategy, leave a remark on the channel you're going to create or your progress after a few months
 
 <br/><br/>
