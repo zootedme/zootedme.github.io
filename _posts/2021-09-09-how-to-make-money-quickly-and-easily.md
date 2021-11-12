@@ -81,6 +81,10 @@ You'll like the challenge, the learning process, and the harvest of profits once
 
 <br/><br/>
 
+> **Related:  [Tips on How To Make Money In Stocks for Beginners](https://www.internetdailydeals.com/tips-on-how-to-make-money-in-stocks-for-beginners/)**
+
+<br/><br/>
+
 ![How to Make Money by Doing Nothing?](/assets/images/how-to-make-money-by-doing-nothing.png)
 
 <br/><br/>
