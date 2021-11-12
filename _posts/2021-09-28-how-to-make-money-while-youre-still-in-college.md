@@ -22,8 +22,6 @@ This is true even for students who have been out from school for a long time. Wh
 
 Here are some great options for new and returning college students to make money while still pursuing their degree. These are simple side jobs with flexible hours that are well worth the effort you put in. After all, you must study as well.
 
-
-
 <br/>
 
 <br/>
@@ -66,17 +64,23 @@ Working as a mover/hauler/reseller could be a wonderful move if you don't mind p
 
 ### **Virtual Assistants**
 
-On the other hand, there is work you can perform from your laptop without ever leaving your dorm room (until class time). Working as a [virtual assistant](https://www.phcareer.com/US/United-State/Virtual-assistant) might entail a variety of tasks, but it is essentially an assistant employment that you perform remotely.
+On the other hand, there is work you can perform from your laptop without ever leaving your dorm room (until class time). Working as a [virtual assistant](https://www.phcareer.com/US/United-State/Virtual-assistant) might entail a variety of tasks, but it is essentially assistant employment that you perform remotely.
 
 You can customize your job function to your unique skills and add as many various types of employment as you desire. Blogging is one form of opportunity. Virtual assistants can also help you manage your social media profiles.
 
 As a virtual assistant, you can determine your own hours. Plus, whether you're more creative or prefer monotonous jobs like tagging or other sorts of data input, you may focus on your talents.
 
-Check out related Facebook groups and consider [opening a Fiverr account](https://track.fiverr.com/visit/?bta=116041&nci=7416) to begin started as a virtual assistant.
+Check out related Facebook groups and consider [opening a Fiverr account](https://track.fiverr.com/visit/?bta=116041&nci=7416) to begin starting as a virtual assistant.
 
 <br/>
 
 <br/>
+
+> **Related: [How to Become a Virtual Assistant for Beginners](https://www.internetdailydeals.com/how-to-become-a-virtual-assistant-for-beginners/)**
+>
+> <br/>
+>
+> <br/>
 
 ![How To Make Money While You're Still In College](/assets/images/how-to-make-money-while-you-re-still-in-college.jpg)
 
@@ -90,7 +94,7 @@ Let's get the easy stuff out of the way first. There are a plethora of applicati
 
 This type of money-making strategy isn't intended to be a long-term source of revenue, but if you don't mind watching advertising and filling out surveys, you can put some money in your pocket.
 
-This category includes secret shoppers and survey sites like Survey Junkie and [Swagbucks](https://www.swagbucks.com/refer/iddeals). Although survey sites require a lot more of your time (if you want to make any significant amount of money), some options allow you to leverage your existing lifestyle. 
+This category includes secret shoppers and surveys sites like Survey Junkie and [Swagbucks](https://www.swagbucks.com/refer/iddeals). Although survey sites require a lot more of your time (if you want to make any significant amount of money), some options allow you to leverage your existing lifestyle. 
 
 Achievement, for example, is great for fitness enthusiasts and students looking for more motivation to maintain a healthier lifestyle. It’s more like an investment than a job in that it will take a while before you earn enough to cash out. However, you can use your daily experience at the campus gym to regularly accumulate points.
 
@@ -144,7 +148,7 @@ Getting paid to deliver anything from groceries to hot meals could be your first
 
 ### **Work as a Tutor**
 
-Tutoring is a fantastic side gig for a college student. Use what you've learnt so far to teach younger students and assist them in improving their grades. This is a fantastic method for students who are passionate about academia to put their knowledge to work while continuing to learn more.
+Tutoring is a fantastic side gig for a college student. Use what you've learned so far to teach younger students and assist them in improving their grades. This is a fantastic method for students who are passionate about academia to put their knowledge to work while continuing to learn more.
 
 It also doesn't have to be limited to math or science. You may teach foreign languages, history, and even music to your students.
 
@@ -153,8 +157,6 @@ It also doesn't have to be limited to math or science. You may teach foreign lan
 <br/>
 
 > **Also Read: [How to Make Money When You Are Retired?](https://www.internetdailydeals.com/how-to-make-money-when-you-are-retired/)**
-
-
 
 <br/>
 
