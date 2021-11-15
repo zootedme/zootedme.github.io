@@ -188,9 +188,9 @@ If you haven't heard, Nike, the world's largest sportswear company, conducts fre
 
 You can test for the following well-known brands that use a similar process to Nike:
 
-[Adidas](https://producttesting.adidas.com/en/requirements)
-[Reebok](https://producttesting.reebok.com/)
-[L'Oreal](https://consumertesting.lorealusa.com/)   (cosmetics, skincare, and beauty products)
+- [Adidas](https://producttesting.adidas.com/en/requirements)
+- [Reebok](https://producttesting.reebok.com/)
+- [L'Oreal](https://consumertesting.lorealusa.com/)   (cosmetics, skincare, and beauty products)
 
 <br/><br/>
 
