@@ -45,6 +45,8 @@ In this video, you'll learn more about how Google AdSense works:
 
 <iframe width="375" height="360" src="https://www.youtube.com/watch?v=YSqOvgfbPhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+<br/>
+**Video Link:** [https://www.youtube.com/watch?v=YSqOvgfbPhI](https://www.youtube.com/watch?v=YSqOvgfbPhI)
 <br/><br/>
 
 ### **Are There Any AdSense Account Requirements? How do I submit my application?**
@@ -128,20 +130,16 @@ It depends on your niche's competition and cost per click **(CPC)**. Google pays
 
 When using AdSense for reach, publishers often get 68 percent or 51 percent. The compensation ranges from **$0.20** to **$15** per click, with an average of $3 per click for publishers.
 
- 
-
-|                                    |                            |
-| ---------------------------------- | --------------------------: |
-| **Best Adsense Niche**             | **Cost per Click (in US)** |
-|                                    |                            |
-| ---------------------------------- | -------------------------- |
-| **Insurance**                      | **$16**                    |
-| **Online Education**               | **$12.08**                 |
-| **Marketing and Advertising**      | **$6.45**                  |
-| **Attorney**                       | **$6.11**                  |
-| **Internet and telecommunication** | **$4.96**                  |
-
- 
+|                                     |                             |
+| ----------------------------------- | --------------------------- |
+| **Best Adsense Niche**              | **Cost per Click (in US)**  |
+|                                     |                             |
+| \---------------------------------- | \-------------------------- |
+| **Insurance**                       | **$16**                     |
+| **Online Education**                | **$12.08**                  |
+| **Marketing and Advertising**       | **$6.45**                   |
+| **Attorney**                        | **$6.11**                   |
+| **Internet and telecommunication**  | **$4.96**                   |
 
 <br/><br/>
 
