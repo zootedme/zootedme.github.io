@@ -43,10 +43,8 @@ Advertisers on the Google Display Network compete for the right to have their ad
 
 In this video, you'll learn more about how Google AdSense works:
 
-<iframe width="375" height="360" src="https://www.youtube.com/watch?v=YSqOvgfbPhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<br/>
-**Video Link:** [https://www.youtube.com/watch?v=YSqOvgfbPhI](https://www.youtube.com/watch?v=YSqOvgfbPhI)
+<iframe width="375" height="360" src="https://www.youtube.com/embed/YSqOvgfbPhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+ 
 <br/><br/>
 
 ### **Are There Any AdSense Account Requirements? How do I submit my application?**
