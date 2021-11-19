@@ -31,6 +31,11 @@ Google uses a variety of targeting methods to choose the ads that appear on your
 <br/><br/>
 
 ![How to Make Money with Google AdSense Fast](/assets/images/how-to-make-money-with-google-adsense-ads-size.webp)
+<br/>
+
+> **Image Source: <https://support.google.com/adsense/answer/6242051>**
+
+<br/><br/>
 
 ### **Why Does Google Choose the Advertising Through an Auction?**
 
@@ -127,15 +132,15 @@ It depends on your niche's competition and cost per click **(CPC)**. Google pays
 
 When using AdSense for reach, publishers often get 68 percent or 51 percent. The compensation ranges from **$0.20** to **$15** per click, with an average of $3 per click for publishers.
 
-|                                     |                               |
-| ----------------------------------- | ----------------------------- : |
-| **Best Adsense Niche**              | **Cost per Click (in US)**    |
-| ---------------------------------- | --------------------------  |
-| **Insurance**                       | **$16**                       |
-| **Online Education**                | **$12.08**                    |
-| **Marketing and Advertising**       | **$6.45**                     |
-| **Attorney**                        | **$6.11**                     |
-| **Internet and telecommunication**  | **$4.96**                     |
+|                                     |                             |
+| ----------------------------------- | --------------------------- :|
+| **Best Adsense Niche**              | **Cost per Click (in US)**  |
+| \---------------------------------- | \-------------------------- |
+| **Insurance**                       | **$16**                     |
+| **Online Education**                | **$12.08**                  |
+| **Marketing and Advertising**       | **$6.45**                   |
+| **Attorney**                        | **$6.11**                   |
+| **Internet and telecommunication**  | **$4.96**                   |
 
 <br/><br/>
 
