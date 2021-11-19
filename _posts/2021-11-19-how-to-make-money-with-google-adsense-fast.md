@@ -129,7 +129,7 @@ It depends on your niche's competition and cost per click **(CPC)**. Google pays
 When using AdSense for reach, publishers often get 68 percent or 51 percent. The compensation ranges from **$0.20** to **$15** per click, with an average of $3 per click for publishers.
 
 |                                     |                             |
-| ----------------------------------- | --------------------------- |
+| ----------------------------------- | ---------------------------: |
 | **Best Adsense Niche**              | **Cost per Click (in US)**  |
 |                                     |                             |
 | \---------------------------------- | \-------------------------- |
