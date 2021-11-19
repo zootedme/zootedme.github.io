@@ -32,8 +32,8 @@ Google uses a variety of targeting methods to choose the ads that appear on your
 
 ![How to Make Money with Google AdSense Fast](/assets/images/how-to-make-money-with-google-adsense-ads-size.webp)
 
-> <br/
-> **Source** : <https://support.google.com/adsense/answer/6242051>
+> <br/>
+> **Image Source** : <https://support.google.com/adsense/answer/6242051>
 > <br/><br/>
 
 ### **Why Does Google Choose the Advertising Through an Auction?**
