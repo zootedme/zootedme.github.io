@@ -133,6 +133,8 @@ When using AdSense for reach, publishers often get 68 percent or 51 percent. The
 |                                    |                            |
 | ---------------------------------- | --------------------------: |
 | **Best Adsense Niche**             | **Cost per Click (in US)** |
+|                                    |                            |
+| ---------------------------------- | -------------------------- |
 | **Insurance**                      | **$16**                    |
 | **Online Education**               | **$12.08**                 |
 | **Marketing and Advertising**      | **$6.45**                  |
