@@ -4,11 +4,14 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 media_folder: "assets/images"
+publish_mode: "editorial_workflow"
 collections:
   - name: "blog"
     label: "Blog"
     folder: "_posts"
     create: true # Allow users to create new documents in this collection
+    preview_path: "{{slug}}"
+    show_preview_links: "true"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     editor:
       preview: true
