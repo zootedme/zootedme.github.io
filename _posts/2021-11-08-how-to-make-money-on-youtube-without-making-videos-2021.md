@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Make Money on YouTube Without Making Videos (2021) "
+title: "How to Make Money on YouTube Without Making Videos in 2022 "
 image: /assets/images/how-to-make-money-on-youtube.jpg
 categories:
   - Youtube
