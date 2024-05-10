@@ -1,0 +1,37 @@
+media:
+  input: assets/images
+  output: /assets/images
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: _posts
+    view:
+      fields: [ image, title ]
+    fields:
+      - { name: layout, type: string, hidden: true, default: post }
+      - { name: image, label: Cover image, type: image }
+      - { name: title, label: Title, type: string, required: true }
+      - {
+          label: Category,
+          name: categories,
+          type: select,
+          options: {values:
+            ["Kitchen", "Office", "Gaming", "Outdoor", "Accessories", "Tips"]},
+        }
+      - {
+          label: Rating,
+          name: rating,
+          type: select,
+          options: {values: ["1", "2", "3", "4", "5"]},
+        }
+      - { label: TOC, name: toc, type: boolean, default: true }
+      - {
+          label: Author,
+          name: author,
+          type: string,
+          default: Killcreek,
+        }
+      - { label: BeforeTOC, name: beforetoc, type: string }
+      - { name: body, label: Body, type: rich-text }
+    
